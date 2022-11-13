@@ -1,267 +1,908 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="beIN_SPORTS1_PREMIUM_Digital_EN.bein" tvg-name="BEIN PREMUIM 1 FHD" tvg-logo="http://xtratexxx.dimapro.xyz:8080/images/9486f48c03038c40b5a242e3b9980035.png" group-title="BEIN SPORT FULL HD",BEIN PREMUIM 1 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/5651
-#EXTINF:-1 tvg-id="beIN_SPORTS2_PREMIUM_Digital_EN.bein" tvg-name="BEIN PREMUIM 2 FHD" tvg-logo="http://wlash.dimapro.xyz:8080/images/e14347880a207d962787ae1b77fd473b.png" group-title="BEIN SPORT FULL HD",BEIN PREMUIM 2 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/5650
-#EXTINF:-1 tvg-id="beIN_SPORTS3_PREMIUM_Digital_EN.bein" tvg-name="BEIN PREMUIM 3 FHD" tvg-logo="http://wlash.dimapro.xyz:8080/images/ace39b94e360cde7599f61110896109b.png" group-title="BEIN SPORT FULL HD",BEIN PREMUIM 3 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/5649
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 1 FHD" tvg-logo="http://xtratexxx.dimapro.xyz:8080/images/62e2d461449bef482d5780e4aecf30ab.png" group-title="BEIN SPORT FULL HD",BEIN SPORT 1 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/5658
-#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_EN.bein" tvg-name="BEIN SPORT 2 FHD" tvg-logo="http://wlash.dimapro.xyz:8080/images/3079bbf46db8c9081151e000accef416.png" group-title="BEIN SPORT FULL HD",BEIN SPORT 2 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/37619
-#EXTINF:-1 tvg-id="beIN_SPORTS3_DIGITAL_EN.bein" tvg-name="BEIN SPORT 3 FHD" tvg-logo="http://wlash.dimapro.xyz:8080/images/5dfdf0f65ace013d584fbbc8d610e7a6.png" group-title="BEIN SPORT FULL HD",BEIN SPORT 3 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/5656
-#EXTINF:-1 tvg-id="beIN_SPORTS4_DIGITAL_EN.bein" tvg-name="BEIN SPORT 4 FHD" tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEINSPORT_4_HD.png" group-title="BEIN SPORT FULL HD",BEIN SPORT 4 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/5655
-#EXTINF:-1 tvg-id="beIN_SPORTS5_DIGITAL_EN.bein" tvg-name="BEIN SPORT 5 FHD" tvg-logo="http://wlash.dimapro.xyz:8080/images/19d033375d30794593692b2c9df6a02e.png" group-title="BEIN SPORT FULL HD",BEIN SPORT 5 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/5654
-#EXTINF:-1 tvg-id="beIN_SPORTS6_DIGITAL_EN.bein" tvg-name="BEIN SPORT 6 FHD" tvg-logo="http://wlash.dimapro.xyz:8080/images/847ed9df7fcda36a50884049d558111c.png" group-title="BEIN SPORT FULL HD",BEIN SPORT 6 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/5653
-#EXTINF:-1 tvg-id="beIN_SPORTS7_DIGITAL_EN.bein" tvg-name="BEIN SPORT 7 FHD" tvg-logo="http://wlash.dimapro.xyz:8080/images/dc62569e2183e3c032a1c2d26e39cbec.png" group-title="BEIN SPORT FULL HD",BEIN SPORT 7 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/5652
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT MAX 1 FULL HD" tvg-logo="" group-title="BEIN SPORTS MAX WORLD",BEINSPORT MAX 1 FULL HD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/91921
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT MAX 2 FULL HD" tvg-logo="" group-title="BEIN SPORTS MAX WORLD",BEINSPORT MAX 2 FULL HD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/91922
-#EXTINF:-1 tvg-id="" tvg-name="TF1 FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/TF1%20FHD-114.png" group-title="FRENCH FULL HD",TF1 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2479
-#EXTINF:-1 tvg-id="" tvg-name="M6 FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/M6-137.png" group-title="FRENCH FULL HD",M6 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2474
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 2 FHD" tvg-logo="http://logo.ott.ma/logo/FRANCE%20HD/FRANCE%202%20FHD.png" group-title="FRENCH FULL HD",FRANCE 2 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2478
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 3 FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/FRANCE%203%20HD.png" group-title="FRENCH FULL HD",FRANCE 3 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2477
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 4 FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/FRANCE%204%20FHD.png" group-title="FRENCH FULL HD",FRANCE 4 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2476
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 5 FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/FRANCE%205%20FHD.png" group-title="FRENCH FULL HD",FRANCE 5 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2475
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE INFO TV FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/FRANCE%20INFO%20%20FHD.png" group-title="FRENCH FULL HD",FRANCE INFO TV FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2463
-#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/TV5%20MONDE%20FHD.png" group-title="FRENCH FULL HD",TV5 MONDE FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2374
-#EXTINF:-1 tvg-id="" tvg-name="TF1 SERIES FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/TF1%20SF%20FHD.png" group-title="FRENCH FULL HD",TF1 SERIES FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2461
-#EXTINF:-1 tvg-id="" tvg-name="RTS DEUX FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/RTS%202%20FHD.png" group-title="FRENCH FULL HD",RTS DEUX FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2370
-#EXTINF:-1 tvg-id="" tvg-name="RTS UN FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/RTS%201%20FHD.png" group-title="FRENCH FULL HD",RTS UN FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2371
-#EXTINF:-1 tvg-id="" tvg-name="W9 FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/W9%20FHD.png" group-title="FRENCH FULL HD",W9 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2471
-#EXTINF:-1 tvg-id="" tvg-name="NRJ 12 FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/NRJ%2012%20FHD.png" group-title="FRENCH FULL HD",NRJ 12 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2468
-#EXTINF:-1 tvg-id="" tvg-name="TFX FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/TFX%20FHD.png" group-title="FRENCH FULL HD",TFX FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2469
-#EXTINF:-1 tvg-id="" tvg-name="CHERIE 25 FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/CHERIE%2025%20FHD.png" group-title="FRENCH FULL HD",CHERIE 25 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2456
-#EXTINF:-1 tvg-id="" tvg-name="TMC FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/TMC%20FHD.png" group-title="FRENCH FULL HD",TMC FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2470
-#EXTINF:-1 tvg-id="" tvg-name="6TER FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/6TER%20FHD.png" group-title="FRENCH FULL HD",6TER FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2459
-#EXTINF:-1 tvg-id="" tvg-name="RTL9 FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/RTL9%20FHD.png" group-title="FRENCH FULL HD",RTL9 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2434
-#EXTINF:-1 tvg-id="" tvg-name="AB1 FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/AB1%20FHD.png" group-title="FRENCH FULL HD",AB1 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2430
-#EXTINF:-1 tvg-id="" tvg-name="AB 3 FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/AB3%20FHD.png" group-title="FRENCH FULL HD",AB 3 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2380
-#EXTINF:-1 tvg-id="" tvg-name="SYFY FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/SYFY%20FHD.png" group-title="FRENCH FULL HD",SYFY FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2431
-#EXTINF:-1 tvg-id="" tvg-name="13EME RUE FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/13%20EME%20RUE%20FHD.png" group-title="FRENCH FULL HD",13EME RUE FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2437
-#EXTINF:-1 tvg-id="" tvg-name="TV BREIZH FHD" tvg-logo="" group-title="FRENCH FULL HD",TV BREIZH FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2429
-#EXTINF:-1 tvg-id="" tvg-name="COMEDIE FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/COMEDIE%20PLUS%20FHD.png" group-title="FRENCH FULL HD",COMEDIE FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2436
-#EXTINF:-1 tvg-id="" tvg-name="ELLE GIRLS FHD" tvg-logo="" group-title="FRENCH FULL HD",ELLE GIRLS FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2428
-#EXTINF:-1 tvg-id="" tvg-name="CANAL FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/CANAL%20FHD.png" group-title="FRENCH FULL HD",CANAL FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2455
-#EXTINF:-1 tvg-id="" tvg-name="CANAL  CINEMA FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/CANAL%20PLUS%20CINEMA%20FHD.png" group-title="FRENCH FULL HD",CANAL  CINEMA FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2454
-#EXTINF:-1 tvg-id="" tvg-name="CANAL KIDS FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/CANAL%20PLUS%20FAMILY%20FHD.png" group-title="FRENCH FULL HD",CANAL KIDS FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2453
-#EXTINF:-1 tvg-id="" tvg-name="CANAL  DECALE FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/CANAL%20PLUS%20DECALE%20FHD.png" group-title="FRENCH FULL HD",CANAL  DECALE FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2452
-#EXTINF:-1 tvg-id="" tvg-name="CANAL  SERIES FHD" tvg-logo="http://v2.dimapro.xyz:8080/images/761add70eb37311fc48baab72ed80707.png" group-title="FRENCH FULL HD",CANAL  SERIES FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2451
-#EXTINF:-1 tvg-id="" tvg-name="CINE  PREMIER FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/CINE%20PLUS%20PREMIER%20FHD.png" group-title="FRENCH FULL HD",CINE  PREMIER FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2450
-#EXTINF:-1 tvg-id="" tvg-name="CINE  EMOTION FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/CINE%20PLUS%20EMOTION%20FHD.png" group-title="FRENCH FULL HD",CINE  EMOTION FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2449
-#EXTINF:-1 tvg-id="" tvg-name="CINE  FAMIZ FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/CINE%20PLUS%20FAMIZ%20FHD.png" group-title="FRENCH FULL HD",CINE  FAMIZ FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2448
-#EXTINF:-1 tvg-id="" tvg-name="CINE  FRISSON FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/CINE%20PLUS%20FRISSON%20FHD.png" group-title="FRENCH FULL HD",CINE  FRISSON FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2447
-#EXTINF:-1 tvg-id="" tvg-name="CINE  CLASSIC FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/CINE%20PLUS%20CLASSIC%20FHD.png" group-title="FRENCH FULL HD",CINE  CLASSIC FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2446
-#EXTINF:-1 tvg-id="" tvg-name="TCM CINEMA FHD" tvg-logo="http://wlash.dimapro.xyz:8080/images/65a3356f68fdc8e6f31c20c5dec06e38.png" group-title="FRENCH FULL HD",TCM CINEMA FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2445
-#EXTINF:-1 tvg-id="" tvg-name="OCS GEANTS FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/OCS%20GEANTS%20FHD.png" group-title="FRENCH FULL HD",OCS GEANTS FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2444
-#EXTINF:-1 tvg-id="" tvg-name="OCS CITY FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/OCS%20CITY%20FHD.png" group-title="FRENCH FULL HD",OCS CITY FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2443
-#EXTINF:-1 tvg-id="" tvg-name="OCS CHOC FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/OCS%20CHOC%20FHD.png" group-title="FRENCH FULL HD",OCS CHOC FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2442
-#EXTINF:-1 tvg-id="" tvg-name="OCS MAX FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/OCS%20MAX%20FHD.png" group-title="FRENCH FULL HD",OCS MAX FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2441
-#EXTINF:-1 tvg-id="" tvg-name="ACTION FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/ACTION%20FHD.png" group-title="FRENCH FULL HD",ACTION FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2440
-#EXTINF:-1 tvg-id="" tvg-name="CINE POLAR FHD" tvg-logo="" group-title="FRENCH FULL HD",CINE POLAR FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2439
-#EXTINF:-1 tvg-id="" tvg-name="PARIS PREMIERE FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/PARIS%20PREMIERE%20FHD.png" group-title="FRENCH FULL HD",PARIS PREMIERE FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2435
-#EXTINF:-1 tvg-id="" tvg-name="SERIE CLUB FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/SERICLUB%20FHD.png" group-title="FRENCH FULL HD",SERIE CLUB FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2433
-#EXTINF:-1 tvg-id="" tvg-name="TEVA FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/TEVA%20FHD.png" group-title="FRENCH FULL HD",TEVA FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2432
-#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/E!%20%20FHD.png" group-title="FRENCH FULL HD",E! ENTERTAINMENT FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2427
-#EXTINF:-1 tvg-id="" tvg-name="PLANETE FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/PLANETE%20FHD.png" group-title="FRENCH FULL HD",PLANETE FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2426
-#EXTINF:-1 tvg-id="" tvg-name="PLANETE  A&E FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/PLANETE%20A&E%20FHD.png" group-title="FRENCH FULL HD",PLANETE  A&E FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2425
-#EXTINF:-1 tvg-id="" tvg-name="PLANETE  CI FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/PLANETE%20CI%20FHD.png" group-title="FRENCH FULL HD",PLANETE  CI FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2424
-#EXTINF:-1 tvg-id="" tvg-name="USHUAIA TV FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/USHUAIA%20TV.png" group-title="FRENCH FULL HD",USHUAIA TV FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2423
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FHD" tvg-logo="" group-title="FRENCH FULL HD",DISCOVERY FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/90188
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="" group-title="FRENCH FULL HD",DISCOVERY SCIENCE FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/90189
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FAMILY FHD" tvg-logo="http://wlash.dimapro.xyz:8080/images/23ae547dad295adb53f54cd183bf9bdf.png" group-title="FRENCH FULL HD",DISCOVERY FAMILY FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2387
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO  FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/NAT%20GEO%20FHD.png" group-title="FRENCH FULL HD",NAT GEO  FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2422
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/NAT%20GEO%20WILD%20HD.png" group-title="FRENCH FULL HD",NAT GEO WILD FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2421
-#EXTINF:-1 tvg-id="" tvg-name="SCIENCES & VIE FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/SCIENCE%20&%20VIE%20FHD.png" group-title="FRENCH FULL HD",SCIENCES & VIE FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2420
-#EXTINF:-1 tvg-id="" tvg-name="SEASON FHD" tvg-logo="" group-title="FRENCH FULL HD",SEASON FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/90187
-#EXTINF:-1 tvg-id="" tvg-name="HISTOIRE FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/HISTOIRE%20TV%20FHD.png" group-title="FRENCH FULL HD",HISTOIRE FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2419
-#EXTINF:-1 tvg-id="" tvg-name="CRIME DISTRICT FHD" tvg-logo="" group-title="FRENCH FULL HD",CRIME DISTRICT FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/90175
-#EXTINF:-1 tvg-id="" tvg-name="TOUTE L'HISTOIRE FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/TOUTE%20LHISTOIRE%20FHD.png" group-title="FRENCH FULL HD",TOUTE L'HISTOIRE FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2418
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAUX FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/ANIMAUX%20FHD.png" group-title="FRENCH FULL HD",ANIMAUX FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2417
-#EXTINF:-1 tvg-id="" tvg-name="RMC DECOUVERTE FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/RMC%20DECOUVERTE.png" group-title="FRENCH FULL HD",RMC DECOUVERTE FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2457
-#EXTINF:-1 tvg-id="" tvg-name="RMC STORY FHD" tvg-logo="" group-title="FRENCH FULL HD",RMC STORY FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/90182
-#EXTINF:-1 tvg-id="" tvg-name="CHASSE & PÊCHE FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/CHASSE%20&%20PECHE%20FHD.png" group-title="FRENCH FULL HD",CHASSE & PÊCHE FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2416
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL FHD" tvg-logo="" group-title="FRENCH FULL HD",DISNEY CHANNEL FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2415
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL  1 FHD" tvg-logo="" group-title="FRENCH FULL HD",DISNEY CHANNEL  1 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2414
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CINEMA FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/DISNEY%20CINEMA%20FHD.png" group-title="FRENCH FULL HD",DISNEY CINEMA FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2413
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/DISNEY%20JUNIOR%20FHD.png" group-title="FRENCH FULL HD",DISNEY JUNIOR FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2412
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/NICKELODEON-224.png" group-title="FRENCH FULL HD",NICKELODEON FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2410
-#EXTINF:-1 tvg-id="" tvg-name="NICK JUNIOR FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/NICK%20JR%20FHD.png" group-title="FRENCH FULL HD",NICK JUNIOR FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2409
-#EXTINF:-1 tvg-id="" tvg-name="CANAL J FHD" tvg-logo="data:image/jpeg;base64,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" group-title="FRENCH FULL HD",CANAL J FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2408
-#EXTINF:-1 tvg-id="" tvg-name="GULLI FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/GULLI%20FHD.png" group-title="FRENCH FULL HD",GULLI FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2407
-#EXTINF:-1 tvg-id="" tvg-name="PIWI FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/PIWI%20PLUS%20FHD.png" group-title="FRENCH FULL HD",PIWI FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2406
-#EXTINF:-1 tvg-id="" tvg-name="TIJI FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/TIJI%20HD.png" group-title="FRENCH FULL HD",TIJI FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2405
-#EXTINF:-1 tvg-id="" tvg-name="TOONAMI FHD" tvg-logo="" group-title="FRENCH FULL HD",TOONAMI FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/90190
-#EXTINF:-1 tvg-id="" tvg-name="TELETOON FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/TELETOON%20PLUS%20FHD.png" group-title="FRENCH FULL HD",TELETOON FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2404
-#EXTINF:-1 tvg-id="" tvg-name="TELETOON  1 FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/TELETOON%20PLUS%20FHD.png" group-title="FRENCH FULL HD",TELETOON  1 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2403
-#EXTINF:-1 tvg-id="" tvg-name="BOING FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/BOING%20FHD.png" group-title="FRENCH FULL HD",BOING FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2402
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/BOOMERANG%20FHD.png" group-title="FRENCH FULL HD",BOOMERANG FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2401
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/CARTOON%20NETWORK%20FHD.png" group-title="FRENCH FULL HD",CARTOON NETWORK FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2400
-#EXTINF:-1 tvg-id="" tvg-name="MANGAS FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/MANGAS%20FHD.png" group-title="FRENCH FULL HD",MANGAS FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2399
-#EXTINF:-1 tvg-id="" tvg-name="GAME ONE FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/GAME%20ONE%20FHD.png" group-title="FRENCH FULL HD",GAME ONE FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2398
-#EXTINF:-1 tvg-id="" tvg-name="C NEWS FHD" tvg-logo="http://wlash.dimapro.xyz:8080/images/6b8aba8eaed3d0cd1d0ebc0f5f15b814.png" group-title="FRENCH FULL HD",C NEWS FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2465
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 FHD" tvg-logo="" group-title="FRENCH FULL HD",FRANCE 24 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/90168
-#EXTINF:-1 tvg-id="" tvg-name="I24 NEWS FHD" tvg-logo="" group-title="FRENCH FULL HD",I24 NEWS FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/90169
-#EXTINF:-1 tvg-id="" tvg-name="EURONEWS FHD" tvg-logo="" group-title="FRENCH FULL HD",EURONEWS FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/90170
-#EXTINF:-1 tvg-id="" tvg-name="LCI FHD" tvg-logo="" group-title="FRENCH FULL HD",LCI FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/90171
-#EXTINF:-1 tvg-id="" tvg-name="LFM TV FHD" tvg-logo="" group-title="FRENCH FULL HD",LFM TV FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/90172
-#EXTINF:-1 tvg-id="" tvg-name="BFMTV FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/BFM%20TV.%20FHD.png" group-title="FRENCH FULL HD",BFMTV FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2467
-#EXTINF:-1 tvg-id="" tvg-name="BFM BUSINESS FHD" tvg-logo="" group-title="FRENCH FULL HD",BFM BUSINESS FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/90173
-#EXTINF:-1 tvg-id="" tvg-name="RMC 1 SPORT FHD" tvg-logo="" group-title="FRENCH FULL HD",RMC 1 SPORT FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/4949
-#EXTINF:-1 tvg-id="" tvg-name="RMC 2 SPORT FHD" tvg-logo="" group-title="FRENCH FULL HD",RMC 2 SPORT FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/4950
-#EXTINF:-1 tvg-id="" tvg-name="CANAL  SPORT FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/CANAL%20PLUS%20SPORT%20HD.png" group-title="FRENCH FULL HD",CANAL  SPORT FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2397
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT FHD" tvg-logo="http://wlash.dimapro.xyz:8080/images/e7d83f7b91c6eeccddaa19e61708290e.png" group-title="FRENCH FULL HD",EUROSPORT FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2394
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 FHD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/4f/Eurosport_2_logo.svg/revision/latest?cb=20100225181512" group-title="FRENCH FULL HD",EUROSPORT 2 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2393
-#EXTINF:-1 tvg-id="" tvg-name="INFOSPORT FHD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/f/fa/Infosport_2011.png/revision/latest?cb=20111122223242" group-title="FRENCH FULL HD",INFOSPORT FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2396
-#EXTINF:-1 tvg-id="" tvg-name="C STAR FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/C%20STAR%20FHD.png" group-title="FRENCH FULL HD",C STAR FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2460
-#EXTINF:-1 tvg-id="" tvg-name="L'EQUIPE 21 FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/EQUIPE%2021%20HD.png" group-title="FRENCH FULL HD",L'EQUIPE 21 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2395
-#EXTINF:-1 tvg-id="" tvg-name="EQUIDIA LIVE FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/EQUIDIA%20HD.png" group-title="FRENCH FULL HD",EQUIDIA LIVE FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2392
-#EXTINF:-1 tvg-id="" tvg-name="FOOT  24/24 FHD" tvg-logo="" group-title="FRENCH FULL HD",FOOT  24/24 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2390
-#EXTINF:-1 tvg-id="" tvg-name="AB MOTEURS FHD" tvg-logo="https://www.thelogodb.com/images/media/logo/vrqwqs1459532074.png" group-title="FRENCH FULL HD",AB MOTEURS FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2388
-#EXTINF:-1 tvg-id="" tvg-name="GOLF FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/GOLF%20CHANNEL%20HD.png" group-title="FRENCH FULL HD",GOLF FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2385
-#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL FR FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/GOLF%20CHANNEL%20HD.png" group-title="FRENCH FULL HD",GOLF CHANNEL FR FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2384
-#EXTINF:-1 tvg-id="" tvg-name="MITV HITS" tvg-logo="" group-title="FRENCH FULL HD",MITV HITS
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/90191
-#EXTINF:-1 tvg-id="" tvg-name="MTV  FR  FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/MTV%20FRANCE%20FHD.png" group-title="FRENCH FULL HD",MTV  FR  FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2383
-#EXTINF:-1 tvg-id="" tvg-name="MCM FHD" tvg-logo="" group-title="FRENCH FULL HD",MCM FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2382
-#EXTINF:-1 tvg-id="" tvg-name="MCM TOP FHD" tvg-logo="http://wlash.dimapro.xyz:8080/images/f4b7a1f1df9d191bf3d545ba64a0dd25.png" group-title="FRENCH FULL HD",MCM TOP FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2381
-#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN FR FHD" tvg-logo="http://wlash.dimapro.xyz:8080/images/faaec6e84f3328c39e61aac80a246b36.png" group-title="FRENCH FULL HD",TRACE URBAN FR FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2379
-#EXTINF:-1 tvg-id="" tvg-name="M6 MUSIC FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/M6%20MUSIC%20FHD.png" group-title="FRENCH FULL HD",M6 MUSIC FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2378
-#EXTINF:-1 tvg-id="" tvg-name="MEZZO LIVE FHD" tvg-logo="http://sx.offshorededi.cz:8080/images/2afe768a7a0320b1d60e0226e17978af.png" group-title="FRENCH FULL HD",MEZZO LIVE FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2376
-#EXTINF:-1 tvg-id="" tvg-name="ARTE FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/ARTE%20FHD.png" group-title="FRENCH FULL HD",ARTE FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2473
-#EXTINF:-1 tvg-id="" tvg-name="C8 FHD" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/C8%20FHD.png" group-title="FRENCH FULL HD",C8 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2472
-#EXTINF:-1 tvg-id="" tvg-name="WEO FHD" tvg-logo="https://lh3.ggpht.com/wDZE09KbaHDb5YMKpU8REPxHv4WXeoOuvnxjd6m4ONXhCUCNMt-Ahx3cyqyKZ5KOYw=w300" group-title="FRENCH FULL HD",WEO FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/2464
-#EXTINF:-1 tvg-id="" tvg-name="BET FHD" tvg-logo="" group-title="FRENCH FULL HD",BET FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/90174
-#EXTINF:-1 tvg-id="" tvg-name="COMEDIE+  FHD" tvg-logo="" group-title="FRENCH FULL HD",COMEDIE+  FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/90176
-#EXTINF:-1 tvg-id="" tvg-name="ROUGE TV FHD" tvg-logo="" group-title="FRENCH FULL HD",ROUGE TV FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/90177
-#EXTINF:-1 tvg-id="" tvg-name="CINE CLUB" tvg-logo="" group-title="FRENCH FULL HD",CINE CLUB
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/90178
-#EXTINF:-1 tvg-id="" tvg-name="RFM TV FHD" tvg-logo="" group-title="FRENCH FULL HD",RFM TV FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/90183
-#EXTINF:-1 tvg-id="" tvg-name="ONE TV FHD" tvg-logo="" group-title="FRENCH FULL HD",ONE TV FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/90184
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="" group-title="FRENCH FULL HD",PARAMOUNT CHANNEL FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/90185
-#EXTINF:-1 tvg-id="" tvg-name="TVM3 FHD" tvg-logo="" group-title="FRENCH FULL HD",TVM3 FHD
-http://xtratexxx.dimapro.xyz:8080/vipteste/ey6eJaKbbn/90186
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="||FR|| TF1 FHD" tvg-logo="http://obsfullhd.tv:25461/images/7a49f8bb7cd847a4d63b02fd4362caa4.png" group-title="FRANCE",||FR|| TF1 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/390
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="||FR|| FRANCE 2 FHD" tvg-logo="http://obsfullhd.tv:25461/images/4ff2e66230668bd0d7167bf6c0318414.png" group-title="FRANCE",||FR|| FRANCE 2 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/402
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="||FR|| FRANCE 3 FHD" tvg-logo="http://obsfullhd.tv:25461/images/9fa62bd28a89f08c3ffabd94b46228e1.png" group-title="FRANCE",||FR|| FRANCE 3 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/403
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="||FR|| FRANCE 4 FHD" tvg-logo="http://obsfullhd.tv:25461/images/87ffb1a373e0bdd6171fa4b2c4cacfdf.png" group-title="FRANCE",||FR|| FRANCE 4 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/404
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="||FR|| FRANCE 5 FHD" tvg-logo="http://obsfullhd.tv:25461/images/761272bb4e226fe6fa1410e201a48305.png" group-title="FRANCE",||FR|| FRANCE 5 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/405
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="||FR|| M6 FHD" tvg-logo="http://obsfullhd.tv:25461/images/4ffdee759cbc69c8f2391f78d81d8b06.png" group-title="FRANCE",||FR|| M6 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/406
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="||FR|| TEVA FHD" tvg-logo="http://obsfullhd.tv:25461/images/bdaa3a1faf2c50fc93b0b1e6b5783312.png" group-title="FRANCE",||FR|| TEVA FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/407
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="||FR|| W9 FHD" tvg-logo="http://obsfullhd.tv:25461/images/02b27611731b9aa5da414daf5d2031a7.png" group-title="FRANCE",||FR|| W9 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/408
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="||FR|| AB1 FHD" tvg-logo="http://obsfullhd.tv:25461/images/68b6a776378decbb4a79cda89087c4ce.png" group-title="FRANCE",||FR|| AB1 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/409
+#EXTINF:-1 tvg-id="AB3.fr" tvg-name="||FR|| AB3 FHD" tvg-logo="http://obsfullhd.tv:25461/images/e7620129086147c3fc5d961c90b1f805.png" group-title="FRANCE",||FR|| AB3 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/410
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="||FR|| TMC FHD" tvg-logo="http://obsfullhd.tv:25461/images/8268458e2cb22b0680155e9f42dd6453.png" group-title="FRANCE",||FR|| TMC FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/411
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="||FR|| C8 FHD" tvg-logo="http://obsfullhd.tv:25461/images/5f9091372112c9e76a98133ba0806352.png" group-title="FRANCE",||FR|| C8 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/412
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="||FR|| CSTAR FHD" tvg-logo="http://obsfullhd.tv:25461/images/bcac1ce266ae819403c6d73cabb37fba.png" group-title="FRANCE",||FR|| CSTAR FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/413
+#EXTINF:-1 tvg-id="NT1.fr" tvg-name="||FR|| TFX FHD" tvg-logo="http://obsfullhd.tv:25461/images/98732efa4278080ec3f48ff90b463f91.png" group-title="FRANCE",||FR|| TFX FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/414
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="||FR|| 6TER FHD" tvg-logo="http://obsfullhd.tv:25461/images/fd74010abfb625ac31d49f0ad91e3428.png" group-title="FRANCE",||FR|| 6TER FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/415
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="||FR|| NRJ 12 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/archive/3/3e/20200525232627%21NRJ12_HD.png" group-title="FRANCE",||FR|| NRJ 12 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/416
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="||FR|| CHERIE 25 FHD" tvg-logo="http://obsfullhd.tv:25461/images/7c3b8d9712d188f3fed3231667f545b5.png" group-title="FRANCE",||FR|| CHERIE 25 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/417
+#EXTINF:-1 tvg-id="Numero23.fr" tvg-name="||FR|| RMC STORY FHD" tvg-logo="http://obsfullhd.tv:25461/images/625897a32beb61135c431c6da534f1fe.png" group-title="FRANCE",||FR|| RMC STORY FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/418
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="||FR|| TF1 SERIES & FILMS FHD" tvg-logo="http://obsfullhd.tv:25461/images/016e07339979b7ec40c39bba460c733f.png" group-title="FRANCE",||FR|| TF1 SERIES & FILMS FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/419
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="||FR|| ACTION FHD" tvg-logo="http://obsfullhd.tv:25461/images/459d3a0bc4d08200c40173915c63510c.png" group-title="FRANCE",||FR|| ACTION FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/420
+#EXTINF:-1 tvg-id="13eRue.fr" tvg-name="||FR|| 13EME RUE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/13e_rue_2010_%28logo%29.svg/766px-13e_rue_2010_%28logo%29.png" group-title="FRANCE",||FR|| 13EME RUE FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/421
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="||FR|| SYFY FHD" tvg-logo="http://obsfullhd.tv:25461/images/3cebf48e378c941b5183deeb1040fab2.png" group-title="FRANCE",||FR|| SYFY FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/422
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="||FR|| SERIE CLUB FHD" tvg-logo="http://obsfullhd.tv:25461/images/fdb5af270020cf0ab7aa64eab88d7463.png" group-title="FRANCE",||FR|| SERIE CLUB FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/423
+#EXTINF:-1 tvg-id="Arte.fr" tvg-name="||FR|| ARTE FHD" tvg-logo="http://obsfullhd.tv:25461/images/74f8c0c5f6fbd6457cd50cf1dbd24c98.png" group-title="FRANCE",||FR|| ARTE FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/425
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="||FR|| PLANETE FHD" tvg-logo="http://obsfullhd.tv:25461/images/a6fae6807d3f65114c5a8077fe7b99cf.png" group-title="FRANCE",||FR|| PLANETE FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/426
+#EXTINF:-1 tvg-id="PLANETEJustice.fr" tvg-name="||FR|| PLANETE+ CI FHD" tvg-logo="http://obsfullhd.tv:25461/images/5bdc92a98fe21e64bda92e9b880b714e.png" group-title="FRANCE",||FR|| PLANETE+ CI FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/427
+#EXTINF:-1 tvg-id="PlaneteAction.fr" tvg-name="||FR|| PLANETE A&E FHD" tvg-logo="http://obsfullhd.tv:25461/images/ec79a3d627b4a7cd79c2159f0d3be685.png" group-title="FRANCE",||FR|| PLANETE A&E FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/428
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="||FR|| DISCOVERY FHD" tvg-logo="http://obsfullhd.tv:25461/images/01f79e0c660c9077cbe37f3440b5eb9c.png" group-title="FRANCE",||FR|| DISCOVERY FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/429
+#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="||FR|| DISCOVERY SCIENCE FHD" tvg-logo="http://obsfullhd.tv:25461/images/cc11a3b79b5750d5bb12c97c8602e0bc.png" group-title="FRANCE",||FR|| DISCOVERY SCIENCE FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/430
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-name="||FR|| RMC DECOUVERTE FHD" tvg-logo="http://obsfullhd.tv:25461/images/2bbf7fb2d2d7ba71f71229f8454c3b6b.png" group-title="FRANCE",||FR|| RMC DECOUVERTE FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/431
+#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="||FR|| NATIONAL GEOGRAPHIE FHD" tvg-logo="http://obsfullhd.tv:25461/images/8c47b3193734ae967b7de25479f373fb.png" group-title="FRANCE",||FR|| NATIONAL GEOGRAPHIE FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/432
+#EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="||FR|| NATIONAL GEOGRAPHIE WILD FHD" tvg-logo="http://obsfullhd.tv:25461/images/4752840ae2f98bc3de97575c039562d3.png" group-title="FRANCE",||FR|| NATIONAL GEOGRAPHIE WILD FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/433
+#EXTINF:-1 tvg-id="ScienceEtVieTV.fr" tvg-name="||FR|| SCIENCES ET VIE FHD" tvg-logo="http://obsfullhd.tv:25461/images/dffae929b14c5a8575fb97f385b085ea.png" group-title="FRANCE",||FR|| SCIENCES ET VIE FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/434
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="||FR|| TREK FHD" tvg-logo="http://obsfullhd.tv:25461/images/42e27fc41b4ccdd21ee22dda8dd4b8ba.png" group-title="FRANCE",||FR|| TREK FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/435
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="||FR|| USHUAIA TV FHD" tvg-logo="http://obsfullhd.tv:25461/images/4f190903411c9e7fdb7f84ca73c40251.png" group-title="FRANCE",||FR|| USHUAIA TV FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/436
+#EXTINF:-1 tvg-id="Voyage.fr" tvg-name="||FR|| VOYAGE FHD" tvg-logo="http://obsfullhd.tv:25461/images/bdf49e74ff818d5e4ccf61ad26f7a06e.png" group-title="FRANCE",||FR|| VOYAGE FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/437
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="||FR|| EUROSPORT 1 FHD" tvg-logo="http://obsfullhd.tv:25461/images/3d857b949eba4844a9844d4530fe52a7.png" group-title="FRANCE",||FR|| EUROSPORT 1 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/447
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="||FR|| EUROSPORT 2 FHD" tvg-logo="http://obsfullhd.tv:25461/images/fbc75254bdfc1521f7034acfa50fb833.png" group-title="FRANCE",||FR|| EUROSPORT 2 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/448
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="||FR|| CANAL+ FHD" tvg-logo="http://obsfullhd.tv:25461/images/43da9e28386b76fac7cace34e9239038.png" group-title="FRANCE",||FR|| CANAL+ FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/454
+#EXTINF:-1 tvg-id="CanalPlusDecale.fr" tvg-name="||FR|| CANAL+ DECALE FHD" tvg-logo="http://obsfullhd.tv:25461/images/4dad25b618b11d02feb6aae320c01442.png" group-title="FRANCE",||FR|| CANAL+ DECALE FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/456
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="||FR|| CANAL+ CINEMA FHD" tvg-logo="http://obsfullhd.tv:25461/images/d0f129e9c14046318ba92127eb397c05.png" group-title="FRANCE",||FR|| CANAL+ CINEMA FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/457
+#EXTINF:-1 tvg-id="CanalPlusKIDS.fr" tvg-name="||FR|| CANAL+ KIDS FHD" tvg-logo="http://obsfullhd.tv:25461/images/3c9f39dd935a5fd391c3f0c6510b7a5a.png" group-title="FRANCE",||FR|| CANAL+ KIDS FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/458
+#EXTINF:-1 tvg-id="CanalPlusSeries.fr" tvg-name="||FR|| CANAL+ SERIE FHD" tvg-logo="http://obsfullhd.tv:25461/images/e626e6c4300941a37e7cf8adf6aaa750.png" group-title="FRANCE",||FR|| CANAL+ SERIE FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/459
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="||FR|| CANAL+ SPORT FHD" tvg-logo="http://obsfullhd.tv:25461/images/404c00cf975b9d0c07bcb413e659c872.png" group-title="FRANCE",||FR|| CANAL+ SPORT FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/460
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="||FR|| CINE PREMIER FHD" tvg-logo="http://obsfullhd.tv:25461/images/7fbc3f8a90bf9af1796e14e8a013076a.png" group-title="FRANCE",||FR|| CINE PREMIER FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/461
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="||FR|| CINE FRISSON FHD" tvg-logo="http://obsfullhd.tv:25461/images/38f81e886c3c7c446b09d2bd82ed7474.png" group-title="FRANCE",||FR|| CINE FRISSON FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/462
+#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="||FR|| CINE+ FAMIZ FHD" tvg-logo="http://obsfullhd.tv:25461/images/816b112c6105b3ebd537828a39af4818.png" group-title="FRANCE",||FR|| CINE+ FAMIZ FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/463
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="||FR|| CINE+ EMOTION FHD" tvg-logo="http://obsfullhd.tv:25461/images/1953bd99a8f69e377452e0338d1d0fb9.png" group-title="FRANCE",||FR|| CINE+ EMOTION FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/464
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="||FR|| CINE+ CLASSIC FHD" tvg-logo="http://obsfullhd.tv:25461/images/8f25192373ae70f82a6d3f2f1e72def0.png" group-title="FRANCE",||FR|| CINE+ CLASSIC FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/465
+#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="||FR|| CINE+ CLUB FHD" tvg-logo="http://obsfullhd.tv:25461/images/1064ff350d9637550eca3a59a88e72f5.png" group-title="FRANCE",||FR|| CINE+ CLUB FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/466
+#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="||FR|| OCS MAX FHD" tvg-logo="http://obsfullhd.tv:25461/images/5706a5ef21e436377a5a671fa92c0310.png" group-title="FRANCE",||FR|| OCS MAX FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/467
+#EXTINF:-1 tvg-id="OCSGeants.fr" tvg-name="||FR|| OCS GEANTS FHD" tvg-logo="http://obsfullhd.tv:25461/images/ee80cc49f837a1e71578214299b4fadc.png" group-title="FRANCE",||FR|| OCS GEANTS FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/468
+#EXTINF:-1 tvg-id="OCSCity.fr" tvg-name="||FR|| OCS CITY FHD" tvg-logo="http://obsfullhd.tv:25461/images/cfd332af03aa8073aa25db1b9f6767d8.png" group-title="FRANCE",||FR|| OCS CITY FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/469
+#EXTINF:-1 tvg-id="OCSChoc.fr" tvg-name="||FR|| OCS CHOC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/OCS_Choc.svg/800px-OCS_Choc.svg.png" group-title="FRANCE",||FR|| OCS CHOC FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/470
+#EXTINF:-1 tvg-id="Nickelodeon4Teen.fr" tvg-name="||FR|| NICKELODEON 4TEEN FHD" tvg-logo="http://obsfullhd.tv:25461/images/e2dea702e4808f46e98b484598cdfc01.png" group-title="FRANCE",||FR|| NICKELODEON 4TEEN FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/477
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="||FR|| MANGAS FHD" tvg-logo="http://obsfullhd.tv:25461/images/c6af7d0afabaeabe1ba7d6345b4d3c75.png" group-title="FRANCE",||FR|| MANGAS FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/478
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="||FR|| GULLI FHD" tvg-logo="http://obsfullhd.tv:25461/images/9d8d8c080161d3339d7629e740afdc9f.png" group-title="FRANCE",||FR|| GULLI FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/479
+#EXTINF:-1 tvg-id="PolarPlus.fr" tvg-name="||FR|| POLAR+ FHD" tvg-logo="http://obsfullhd.tv:25461/images/9ba10033cb7829c462477e0502226cca.png" group-title="FRANCE",||FR|| POLAR+ FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/492
+#EXTINF:-1 tvg-id="Boing.fr" tvg-name="||FR|| BOING FHD" tvg-logo="http://obsfullhd.tv:25461/images/6af9296befc8c958c8d9deb2d2a71c36.png" group-title="FRANCE",||FR|| BOING FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/497
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="||FR|| CANAL J FHD" tvg-logo="http://obsfullhd.tv:25461/images/dd8100da344269f2b9fc3de90b4d4d72.png" group-title="FRANCE",||FR|| CANAL J FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/498
+#EXTINF:-1 tvg-id="Toonami.fr" tvg-name="||FR|| TOONAMI FHD" tvg-logo="http://obsfullhd.tv:25461/images/c59d82825bd764d6b9d14d757fe40653.png" group-title="FRANCE",||FR|| TOONAMI FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/499
+#EXTINF:-1 tvg-id="TeleToonPlus.fr" tvg-name="||FR|| TELETOON+ FHD" tvg-logo="http://obsfullhd.tv:25461/images/ea3d5387d8e081e423f4537b4f8e585a.png" group-title="FRANCE",||FR|| TELETOON+ FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/501
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="||FR|| BOOMERANG FHD" tvg-logo="http://obsfullhd.tv:25461/images/98b89b6d8aa399fde5675662bbc34aee.png" group-title="FRANCE",||FR|| BOOMERANG FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/502
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="||FR|| NICKLODEON FHD" tvg-logo="http://obsfullhd.tv:25461/images/1d24d4c0e7c3413d7d19b1fceeb2f8c5.png" group-title="FRANCE",||FR|| NICKLODEON FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/503
+#EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-name="||FR|| NICKELODEON JUNIOR FHD" tvg-logo="http://obsfullhd.tv:25461/images/9fa396f57d39694165409442393c0c0e.png" group-title="FRANCE",||FR|| NICKELODEON JUNIOR FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/504
+#EXTINF:-1 tvg-id="DisneyXD.fr" tvg-name="||FR|| DISNEY XD FHD" tvg-logo="http://obsfullhd.tv:25461/images/87d5972295494d9f31a3c926886fe591.png" group-title="FRANCE",||FR|| DISNEY XD FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/505
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="||FR|| DISNEY JUNIOR FHD" tvg-logo="http://obsfullhd.tv:25461/images/5630ee277a9e62d8bba6b8c708dbdb9a.png" group-title="FRANCE",||FR|| DISNEY JUNIOR FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/506
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="||FR|| DISNEY CINEMA FHD" tvg-logo="http://obsfullhd.tv:25461/images/c7236a0c42b9e1f25c0a04c1eed3b3a9.png" group-title="FRANCE",||FR|| DISNEY CINEMA FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/507
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="||FR|| DISNEY CHANNEL FHD" tvg-logo="http://obsfullhd.tv:25461/images/410dc6ac925be1b0fd80dad61c348b49.png" group-title="FRANCE",||FR|| DISNEY CHANNEL FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/508
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="||FR|| CARTOON NETWORK FHD" tvg-logo="http://obsfullhd.tv:25461/images/0a08a7c1b345158fbaf67e3672f32957.png" group-title="FRANCE",||FR|| CARTOON NETWORK FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/509
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="||FR|| BFM BUSINESS FHD" tvg-logo="http://obsfullhd.tv:25461/images/eb655a9c80ae232d622196bba6148b98.png" group-title="FRANCE",||FR|| BFM BUSINESS FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1952
+#EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="||FR|| BFM PARIS FHD" tvg-logo="http://obsfullhd.tv:25461/images/19e79b626be48271a3cab3570f11b963.png" group-title="FRANCE",||FR|| BFM PARIS FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1953
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="||FR|| BFM NEWS FHD" tvg-logo="http://obsfullhd.tv:25461/images/c0bcb9a3edf6455b74333f696ccc47b6.png" group-title="FRANCE",||FR|| BFM NEWS FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1955
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="||FR|| CNEWS FHD" tvg-logo="http://obsfullhd.tv:25461/images/ffb576a0cfa83a50a97a7baa6302ec99.png" group-title="FRANCE",||FR|| CNEWS FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1956
+#EXTINF:-1 tvg-id="I24news.fr" tvg-name="||FR|| I24 NEWS FHD" tvg-logo="http://obsfullhd.tv:25461/images/af5761c41df15c2df0cda8df84065ab4.png" group-title="FRANCE",||FR|| I24 NEWS FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1957
+#EXTINF:-1 tvg-id="LCP100.fr" tvg-name=" ||FR|| LCP FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9c/LCP_Logo.svg/1200px-LCP_Logo.svg.png" group-title="FRANCE", ||FR|| LCP FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1959
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="||FR|| LCI FHD" tvg-logo="http://obsfullhd.tv:25461/images/bbe69c3733787976d98351b86ea67e66.png" group-title="FRANCE",||FR|| LCI FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1960
+#EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="||FR|| MEZZO LIVE  FHD" tvg-logo="http://obsfullhd.tv:25461/images/bbdd2f0e9cbf73e5c826995a10b89091.png" group-title="FRANCE",||FR|| MEZZO LIVE  FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1962
+#EXTINF:-1 tvg-id="ABMoteurs.fr" tvg-name=" ||FR|| AUTO MOTO FHD" tvg-logo="http://obsfullhd.tv:25461/images/e99202b81e05b8523fd6daae2ec714d2.png" group-title="FRANCE", ||FR|| AUTO MOTO FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1979
+#EXTINF:-1 tvg-id="OLTV.fr" tvg-name="||FR|| OL TV FHD" tvg-logo="http://obsfullhd.tv:25461/images/283865cf560d918661b46c1a79c0b677.png" group-title="FRANCE",||FR|| OL TV FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1980
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="||FR|| L'EQUIPE 21 FHD" tvg-logo="http://obsfullhd.tv:25461/images/d9ecff9026d0e470470187c10dcc7274.png" group-title="FRANCE",||FR|| L'EQUIPE 21 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1981
+#EXTINF:-1 tvg-id="GolfChannel.fr" tvg-name="||FR|| GOLF CHANNEL FHD" tvg-logo="http://obsfullhd.tv:25461/images/2fb6ffa35b57bf015b3ab48c30aaa405.png" group-title="FRANCE",||FR|| GOLF CHANNEL FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1982
+#EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="||FR|| GOLF+ FHD" tvg-logo="http://obsfullhd.tv:25461/images/a6057a0585099d04a210f79432e1730e.png" group-title="FRANCE",||FR|| GOLF+ FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1983
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="||FR|| INFOSPORT+ FHD" tvg-logo="http://obsfullhd.tv:25461/images/c08570ffcc111c982374d631f317ed20.png" group-title="FRANCE",||FR|| INFOSPORT+ FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1985
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="||FR|| EQUIDIA LIFE FHD" tvg-logo="http://obsfullhd.tv:25461/images/88294ccf018fee31a25e763ba844798e.png" group-title="FRANCE",||FR|| EQUIDIA LIFE FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1988
+#EXTINF:-1 tvg-id="NovelasTV.fr" tvg-name="||FR|| NOVELAS FHD" tvg-logo="http://obsfullhd.tv:25461/images/f334c0944bf091c580500502e375812f.png" group-title="FRANCE",||FR|| NOVELAS FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1989
+#EXTINF:-1 tvg-id="WarnerTV.fr" tvg-name="||FR|| WARNER TV FHD" tvg-logo="http://obsfullhd.tv:25461/images/7701cfecfb2a25fd41a64d0a3f5978d5.png" group-title="FRANCE",||FR|| WARNER TV FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1991
+#EXTINF:-1 tvg-id="PolarPlus.fr" tvg-name="||FR|| POLAR + FHD" tvg-logo="http://obsfullhd.tv:25461/images/fa5caf54a500bad246188a8769cb9947.png" group-title="FRANCE",||FR|| POLAR + FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1992
+#EXTINF:-1 tvg-id="AlticeStudio.fr" tvg-name="||FR|| ALTICE STUDIO FHD" tvg-logo="http://obsfullhd.tv:25461/images/27b7512e2ea99bac12ee40df36d3d48f.png" group-title="FRANCE",||FR|| ALTICE STUDIO FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1993
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="||FR|| CINE+ PREMIER FHD" tvg-logo="http://obsfullhd.tv:25461/images/7fbc3f8a90bf9af1796e14e8a013076a.png" group-title="FRANCE",||FR|| CINE+ PREMIER FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1994
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="||FR|| CINE+ FRISSON FHD" tvg-logo="http://obsfullhd.tv:25461/images/38f81e886c3c7c446b09d2bd82ed7474.png" group-title="FRANCE",||FR|| CINE+ FRISSON FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1995
+#EXTINF:-1 tvg-id="ES1.fr" tvg-name="||FR|| ES1 FHD" tvg-logo="http://obsfullhd.tv:25461/images/f7f27842f569ace56df9b2f0edfad6c4.png" group-title="FRANCE",||FR|| ES1 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1997
+#EXTINF:-1 tvg-id="EEntertainment.fr" tvg-name=" ||FR|| E! ENTERTAINMENT FHD" tvg-logo="http://obsfullhd.tv:25461/images/29f2ca19b1e504fca8ab554dbe3f6d3a.png" group-title="FRANCE", ||FR|| E! ENTERTAINMENT FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1999
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name=" ||FR|| MCM  FHD" tvg-logo="http://obsfullhd.tv:25461/images/4ca5edaadd4c0bcc802e03d6c4d7e2c0.png" group-title="FRANCE", ||FR|| MCM  FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2000
+#EXTINF:-1 tvg-id="TvBreizh.fr" tvg-name=" ||FR|| TV BREIZH  FHD" tvg-logo="http://obsfullhd.tv:25461/images/57a1b0a60e777f468a2ac4b705dcddbd.png" group-title="FRANCE", ||FR|| TV BREIZH  FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2001
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="||FR|| RTL9 FHD" tvg-logo="http://obsfullhd.tv:25461/images/408cf1d9001d85bc7082549b89cc1900.png" group-title="FRANCE",||FR|| RTL9 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2002
+#EXTINF:-1 tvg-id="FashionTV.fr" tvg-name=" ||FR|| FASHION FHD" tvg-logo="http://obsfullhd.tv:25461/images/031704c32424738c8265cb1c5412a817.png" group-title="FRANCE", ||FR|| FASHION FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2003
+#EXTINF:-1 tvg-id="LaChaineMeteo.fr" tvg-name="||FR|| LA CHAINE METEO FHD" tvg-logo="http://obsfullhd.tv:25461/images/66550a7e18df0a383be347c3d649acfb.png" group-title="FRANCE",||FR|| LA CHAINE METEO FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2004
+#EXTINF:-1 tvg-id="Viceland.fr" tvg-name="||FR|| VICELAND  FHD" tvg-logo="http://obsfullhd.tv:25461/images/dd908ece70861af10aeab5e7453c3c7a.png" group-title="FRANCE",||FR|| VICELAND  FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2006
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="||FR|| CRIME DISTRICT FHD" tvg-logo="http://obsfullhd.tv:25461/images/7098da98cedc0f579a9c0bbc73128234.png" group-title="FRANCE",||FR|| CRIME DISTRICT FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2009
+#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="||FR|| DISCOVERY INVESTIGATION FHD" tvg-logo="http://obsfullhd.tv:25461/images/a281ac3e2b560404c8ca6b83f1855d5b.png" group-title="FRANCE",||FR|| DISCOVERY INVESTIGATION FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2010
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="||FR|| ANIMAUX FHD" tvg-logo="http://obsfullhd.tv:25461/images/b5b1dcfef47cad26611aafcded66db48.png" group-title="FRANCE",||FR|| ANIMAUX FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2011
+#EXTINF:-1 tvg-id="ChasseEtPeche.fr" tvg-name="||FR|| CHASSE ET PECHE FHD" tvg-logo="http://obsfullhd.tv:25461/images/edd90dff723f7310354cb2643ab0a6ca.png" group-title="FRANCE",||FR|| CHASSE ET PECHE FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2012
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="||FR|| SEASONS FHD" tvg-logo="http://obsfullhd.tv:25461/images/85ed15c4d405df129035c8d503ce4e6b.png" group-title="FRANCE",||FR|| SEASONS FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2013
+#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="||FR|| TOUTE L'HISTOIRE FHD" tvg-logo="http://obsfullhd.tv:25461/images/8bd4203107ac549d589828aad6164d39.png" group-title="FRANCE",||FR|| TOUTE L'HISTOIRE FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2014
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="||FR|| PLANETE+ FHD" tvg-logo="http://obsfullhd.tv:25461/images/86f02008f265b3e463c30937e635b089.png" group-title="FRANCE",||FR|| PLANETE+ FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2015
+#EXTINF:-1 tvg-id="DisneyPlus.fr" tvg-name="||FR|| DISNEY+ FHD" tvg-logo="http://obsfullhd.tv:25461/images/87d5972295494d9f31a3c926886fe591.png" group-title="FRANCE",||FR|| DISNEY+ FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2016
+#EXTINF:-1 tvg-id="Toonami.fr" tvg-name=" ||FR|| TOONAMI FHD" tvg-logo="http://obsfullhd.tv:25461/images/c59d82825bd764d6b9d14d757fe40653.png" group-title="FRANCE", ||FR|| TOONAMI FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2017
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name=" ||FR|| CARTOON NETWORK FHD" tvg-logo="http://obsfullhd.tv:25461/images/d7f451b316864c61a46652e40cb7f81c.PNG" group-title="FRANCE", ||FR|| CARTOON NETWORK FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2018
+#EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-name="||FR|| NICKELODEON JR FHD" tvg-logo="http://obsfullhd.tv:25461/images/3d077c2e3a59f8447fadbaacee0ccbbc.png" group-title="FRANCE",||FR|| NICKELODEON JR FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2019
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="||FR|| NICKELODEON FHD" tvg-logo="http://obsfullhd.tv:25461/images/35ee78147d4eca9b6b76a1a02d534ce7.png" group-title="FRANCE",||FR|| NICKELODEON FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2020
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="||FR|| PIWI FHD" tvg-logo="http://obsfullhd.tv:25461/images/e47936e6b3410f510b72b3f9428cf461.png" group-title="FRANCE",||FR|| PIWI FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2022
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name=" ||FR|| CANAL J FHD" tvg-logo="http://obsfullhd.tv:25461/images/dd8100da344269f2b9fc3de90b4d4d72.png" group-title="FRANCE", ||FR|| CANAL J FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2023
+#EXTINF:-1 tvg-id="TIJI.fr" tvg-name="||FR|| TIJI FHD" tvg-logo="http://obsfullhd.tv:25461/images/5462011086530f847c00bb318cbedff6.png" group-title="FRANCE",||FR|| TIJI FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2024
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="||FR|| PARIS PREMIERE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Paris_premi%C3%A8re_1997_logo.svg/1280px-Paris_premi%C3%A8re_1997_logo.svg.png" group-title="FRANCE",||FR|| PARIS PREMIERE FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2666
+#EXTINF:-1 tvg-id="DiscoveryFamily.fr" tvg-name="||FR|| DISCOVERY FAMILY FHD" tvg-logo="http://obsfullhd.tv:25461/images/a281ac3e2b560404c8ca6b83f1855d5b.png" group-title="FRANCE",||FR|| DISCOVERY FAMILY FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2758
+#EXTINF:-1 tvg-id="NollywoodTV.af" tvg-name="||FR|| NOLLYWOOD FHD" tvg-logo="http://obsfullhd.tv:25461/images/4a33e7be8cfd6663c4c96d3c541843cb.png" group-title="FRANCE",||FR|| NOLLYWOOD FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2762
+#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="||FR|| COMEDIE+ FHD" tvg-logo="http://obsfullhd.tv:25461/images/989bbc0dc03e1bf0d588a4db97c51101.png" group-title="FRANCE",||FR|| COMEDIE+ FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2763
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="||FR|| NUMERO 23 FHD" tvg-logo="" group-title="FRANCE",||FR|| NUMERO 23 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/4773
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="||FR|| RMC SPORT 2 FHD" tvg-logo="http://obsfullhd.tv:25461/images/23bf89ddfb161b3421e73c78b16d2145.png" group-title="RMC SPORTS",||FR|| RMC SPORT 2 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1091
+#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="||FR|| RMC SPORT 3 FHD" tvg-logo="http://obsfullhd.tv:25461/images/0d1c01fd13c353330ad9a25c1484db80.png" group-title="RMC SPORTS",||FR|| RMC SPORT 3 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1092
+#EXTINF:-1 tvg-id="RMCSport4.fr" tvg-name="||FR|| RMC SPORT 4 FHD" tvg-logo="http://obsfullhd.tv:25461/images/c0ba8f5d77423a254a5f6c8e3b8c0c45.png" group-title="RMC SPORTS",||FR|| RMC SPORT 4 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1093
+#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="||FR|| RMC SPORT 5 FHD" tvg-logo="http://obsfullhd.tv:25461/images/e6d0b47b757e61f99c72576c5d86c465.png" group-title="RMC SPORTS",||FR|| RMC SPORT 5 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1094
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT 6 FHD" tvg-logo="http://obsfullhd.tv:25461/images/869ae135e38dd15dbf5fc0119c4a1a96.png" group-title="RMC SPORTS",||FR|| RMC SPORT 6 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1095
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT 7 FHD" tvg-logo="http://obsfullhd.tv:25461/images/869ae135e38dd15dbf5fc0119c4a1a96.png" group-title="RMC SPORTS",||FR|| RMC SPORT 7 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1096
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC NEWS SPORT FHD" tvg-logo="http://obsfullhd.tv:25461/images/869ae135e38dd15dbf5fc0119c4a1a96.png" group-title="RMC SPORTS",||FR|| RMC NEWS SPORT FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1986
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="||FR|| BEIN SPORTS 1 FHD" tvg-logo="http://obsfullhd.tv:25461/images/c207e1231312b32d0bc3fc312da45c2e.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN SPORTS 1 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/450
+#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="||FR|| BEIN SPORTS 2 FHD" tvg-logo="http://obsfullhd.tv:25461/images/309d037e80929c143b5e8e4478143d2f.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN SPORTS 2 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/451
+#EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="||FR|| BEIN SPORTS 3 FHD" tvg-logo="http://obsfullhd.tv:25461/images/ee563d622c6e53db2bcbfb2b95d80d30.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN SPORTS 3 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/453
+#EXTINF:-1 tvg-id="beINSPORTSMAX4.fr" tvg-name="||FR|| BEIN MAX 4 FHD" tvg-logo="http://obsfullhd.tv:25461/images/d553689764db3362d713cc53b8918b7a.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 4 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1972
+#EXTINF:-1 tvg-id="beINSPORTSMAX6.fr" tvg-name="||FR|| BEIN MAX 6 FHD" tvg-logo="http://obsfullhd.tv:25461/images/72ae25dd3ccee6d868d5974433408dce.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 6 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1973
+#EXTINF:-1 tvg-id="beINSPORTSMAX5.fr" tvg-name="||FR|| BEIN MAX 5 FHD" tvg-logo="http://obsfullhd.tv:25461/images/e48e13207341b6bffb7fb1622282247b.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 5 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1974
+#EXTINF:-1 tvg-id="beINSPORTSMAX7.fr" tvg-name="||FR|| BEIN MAX 7 FHD" tvg-logo="http://obsfullhd.tv:25461/images/7a6455f20d74010716891e3290e65b35.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 7 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1975
+#EXTINF:-1 tvg-id="beINSPORTSMAX8.fr" tvg-name="||FR|| BEIN MAX 8 FHD" tvg-logo="http://obsfullhd.tv:25461/images/85f977a6a7ae02f83cde0ab9aa45b0e9.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 8 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1976
+#EXTINF:-1 tvg-id="beINSPORTSMAX9.fr" tvg-name="||FR|| BEIN MAX 9 FHD" tvg-logo="http://obsfullhd.tv:25461/images/618c14c81484316628cd6919bff20ef4.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 9 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1977
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| CANAL PLAY 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="FRANCE",||FR|| CANAL PLAY 1 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1882
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| CANAL PLAY 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="FRANCE",||FR|| CANAL PLAY 2 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1883
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| CANAL PLAY 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="FRANCE",||FR|| CANAL PLAY 3 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1884
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| CANAL PLAY 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="FRANCE",||FR|| CANAL PLAY 4 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1885
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| CANAL PLAY 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="FRANCE",||FR|| CANAL PLAY 5 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1886
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| CANAL PLAY 6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="FRANCE",||FR|| CANAL PLAY 6 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1887
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| CANAL PLAY 7 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="FRANCE",||FR|| CANAL PLAY 7 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1888
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| CANAL PLAY 8 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="FRANCE",||FR|| CANAL PLAY 8 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1889
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| CANAL PLAY 9 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="FRANCE",||FR|| CANAL PLAY 9 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1890
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| CANAL PLAY 10 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="FRANCE",||FR|| CANAL PLAY 10 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1891
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| CANAL PLAY 11 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="FRANCE",||FR|| CANAL PLAY 11 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1892
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| CANAL PLAY 12 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="FRANCE",||FR|| CANAL PLAY 12 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1893
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| CANAL PLAY 13 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="FRANCE",||FR|| CANAL PLAY 13 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1894
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| CANAL PLAY 14 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="FRANCE",||FR|| CANAL PLAY 14 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1895
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| CANAL PLAY 15 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="FRANCE",||FR|| CANAL PLAY 15 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1896
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| CANAL PLAY 16 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="FRANCE",||FR|| CANAL PLAY 16 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1897
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| CANAL PLAY 17 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="FRANCE",||FR|| CANAL PLAY 17 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1898
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| CANAL PLAY 18 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="FRANCE",||FR|| CANAL PLAY 18 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1899
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| CANAL PLAY MULTIVISION 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="FRANCE",||FR|| CANAL PLAY MULTIVISION 1 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1900
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| CANAL PLAY MULTIVISION 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png" group-title="FRANCE",||FR|| CANAL PLAY MULTIVISION 2 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1901
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| CANAL PLAY MULTIVISION 3 FHD" tvg-logo="http://obsfullhd.tv:25461/images/042f2671aa06ce37424b51f628534bcb.png" group-title="FRANCE",||FR|| CANAL PLAY MULTIVISION 3 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1902
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="||FR|| TF1 FHD+" tvg-logo="http://obsfullhd.tv:25461/images/7a49f8bb7cd847a4d63b02fd4362caa4.png" group-title="FRANCE",||FR|| TF1 FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11007
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="||FR|| FRANCE 2 FHD+" tvg-logo="http://obsfullhd.tv:25461/images/4ff2e66230668bd0d7167bf6c0318414.png" group-title="FRANCE",||FR|| FRANCE 2 FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11008
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="||FR|| FRANCE 3 FHD+" tvg-logo="http://obsfullhd.tv:25461/images/9fa62bd28a89f08c3ffabd94b46228e1.png" group-title="FRANCE",||FR|| FRANCE 3 FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11009
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="||FR|| CANAL+ FHD+" tvg-logo="http://obsfullhd.tv:25461/images/43da9e28386b76fac7cace34e9239038.png" group-title="FRANCE",||FR|| CANAL+ FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11010
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="||FR|| FRANCE 5 FHD+" tvg-logo="http://obsfullhd.tv:25461/images/761272bb4e226fe6fa1410e201a48305.png" group-title="FRANCE",||FR|| FRANCE 5 FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11011
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="||FR|| M6 FHD+" tvg-logo="http://obsfullhd.tv:25461/images/404b6aa6e5108ab1420f6bb4e16bcc12.png" group-title="FRANCE",||FR|| M6 FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11012
+#EXTINF:-1 tvg-id="Arte.fr" tvg-name="||FR|| ARTE FHD+" tvg-logo="http://obsfullhd.tv:25461/images/74f8c0c5f6fbd6457cd50cf1dbd24c98.png" group-title="FRANCE",||FR|| ARTE FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11013
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="||FR|| C8 FHD+" tvg-logo="http://obsfullhd.tv:25461/images/b6d67126e0f2008ce2dd99ced1de8a30.png" group-title="FRANCE",||FR|| C8 FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11014
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="||FR|| W9 FHD+" tvg-logo="http://obsfullhd.tv:25461/images/9f1acd505ac02db5bc54ccf67f73d623.png" group-title="FRANCE",||FR|| W9 FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11015
+#EXTINF:-1 tvg-id="TMCplus1.fr" tvg-name="||FR|| TMC FHD+" tvg-logo="http://obsfullhd.tv:25461/images/875e9d12d5ebc1703733fb6eb7485c7a.png" group-title="FRANCE",||FR|| TMC FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11016
+#EXTINF:-1 tvg-id="NT1.fr" tvg-name="||FR|| TFX FHD+" tvg-logo="http://obsfullhd.tv:25461/images/56ac3598fe365f62e4adf531eab56eae.png" group-title="FRANCE",||FR|| TFX FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11017
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="||FR|| NRJ 12 FHD+" tvg-logo="http://obsfullhd.tv:25461/images/46fe1b817e08683c39167fd1692187f9.png" group-title="FRANCE",||FR|| NRJ 12 FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11018
+#EXTINF:-1 tvg-id="LCP100.fr" tvg-name="||FR|| LCP FHD+" tvg-logo="http://obsfullhd.tv:25461/images/e593d01e0e6f527c99ae387e127fdede.png" group-title="FRANCE",||FR|| LCP FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11019
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="||FR|| FRANCE 4 FHD+" tvg-logo="http://obsfullhd.tv:25461/images/87ffb1a373e0bdd6171fa4b2c4cacfdf.png" group-title="FRANCE",||FR|| FRANCE 4 FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11020
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="||FR|| BFM TV FHD+" tvg-logo="http://obsfullhd.tv:25461/images/83ae3ced3bc1bd233b028d07af7ca834.png" group-title="FRANCE",||FR|| BFM TV FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11021
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="||FR|| CNEWS FHD+" tvg-logo="http://obsfullhd.tv:25461/images/ffb576a0cfa83a50a97a7baa6302ec99.png" group-title="FRANCE",||FR|| CNEWS FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11022
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="||FR|| CSTAR FHD+" tvg-logo="http://obsfullhd.tv:25461/images/bcac1ce266ae819403c6d73cabb37fba.png" group-title="FRANCE",||FR|| CSTAR FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11023
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="||FR|| GULLI FHD+" tvg-logo="http://obsfullhd.tv:25461/images/9d8d8c080161d3339d7629e740afdc9f.png" group-title="FRANCE",||FR|| GULLI FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11024
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="||FR|| TF1 SERIES FILMS FHD+" tvg-logo="http://obsfullhd.tv:25461/images/9781c2ab1cf55b77ce652f25738b0654.png" group-title="FRANCE",||FR|| TF1 SERIES FILMS FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11025
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="||FR|| L' EQUIPE 21 FHD+" tvg-logo="http://obsfullhd.tv:25461/images/d9ecff9026d0e470470187c10dcc7274.png" group-title="FRANCE",||FR|| L' EQUIPE 21 FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11026
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="||FR|| 6TER FHD+" tvg-logo="http://obsfullhd.tv:25461/images/ffeca83b756a33769205daa1f65a5c45.png" group-title="FRANCE",||FR|| 6TER FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11027
+#EXTINF:-1 tvg-id="Numero23.fr" tvg-name="||FR|| RMC STORY FHD+" tvg-logo="http://obsfullhd.tv:25461/images/625897a32beb61135c431c6da534f1fe.png" group-title="FRANCE",||FR|| RMC STORY FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11028
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-name="||FR|| RMC DECOUVERTE FHD+" tvg-logo="http://obsfullhd.tv:25461/images/2bbf7fb2d2d7ba71f71229f8454c3b6b.png" group-title="FRANCE",||FR|| RMC DECOUVERTE FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11029
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="||FR|| CHERIE 25 FHD+" tvg-logo="http://obsfullhd.tv:25461/images/7c3b8d9712d188f3fed3231667f545b5.png" group-title="FRANCE",||FR|| CHERIE 25 FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11030
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="||FR|| EUROSPORT 1 FHD+" tvg-logo="http://obsfullhd.tv:25461/images/3d857b949eba4844a9844d4530fe52a7.png" group-title="FRANCE",||FR|| EUROSPORT 1 FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11031
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="||FR|| EUROSPORT 2 FHD+" tvg-logo="http://obsfullhd.tv:25461/images/fbc75254bdfc1521f7034acfa50fb833.png" group-title="FRANCE",||FR|| EUROSPORT 2 FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11032
+#EXTINF:-1 tvg-id="CanalPlusLigue1.fr" tvg-name="||FR|| CANAL+ LIGUE 1 FHD" tvg-logo="http://obsfullhd.tv:25461/images/0adbb229a50d915353fd800669ab35ea.png" group-title="FRANCE",||FR|| CANAL+ LIGUE 1 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/36583
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="||FR|| CANAL+ SPORT FHD+" tvg-logo="http://obsfullhd.tv:25461/images/b3c47fa4981def36f000de6f25cd3d7e.png" group-title="FRANCE",||FR|| CANAL+ SPORT FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/51157
+#EXTINF:-1 tvg-id="CanalPlusDecale.fr" tvg-name="||FR|| CANAL+ DECALE FHD+" tvg-logo="http://obsfullhd.tv:25461/images/4dad25b618b11d02feb6aae320c01442.png" group-title="FRANCE",||FR|| CANAL+ DECALE FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/52290
+#EXTINF:-1 tvg-id="CanalPlusKIDS.fr" tvg-name="||FR|| CANAL+ KIDS FHD+" tvg-logo="http://obsfullhd.tv:25461/images/3c9f39dd935a5fd391c3f0c6510b7a5a.png" group-title="FRANCE",||FR|| CANAL+ KIDS FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/52292
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="||FR|| CINE+ EMOTION FHD+" tvg-logo="http://obsfullhd.tv:25461/images/1953bd99a8f69e377452e0338d1d0fb9.png" group-title="FRANCE",||FR|| CINE+ EMOTION FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/52294
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="||FR|| CINE+ PREMIER FHD+" tvg-logo="http://obsfullhd.tv:25461/images/7fbc3f8a90bf9af1796e14e8a013076a.png" group-title="FRANCE",||FR|| CINE+ PREMIER FHD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/52296
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="||FR|| TF1 HD" tvg-logo="http://obsfullhd.tv:25461/images/7a49f8bb7cd847a4d63b02fd4362caa4.png" group-title="FRANCE",||FR|| TF1 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/8
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="||FR|| FRANCE 2 HD" tvg-logo="http://obsfullhd.tv:25461/images/4ff2e66230668bd0d7167bf6c0318414.png" group-title="FRANCE",||FR|| FRANCE 2 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/9
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="||FR|| FRANCE 3 HD" tvg-logo="http://obsfullhd.tv:25461/images/9fa62bd28a89f08c3ffabd94b46228e1.png" group-title="FRANCE",||FR|| FRANCE 3 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/10
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="||FR|| FRANCE 4 HD" tvg-logo="http://obsfullhd.tv:25461/images/87ffb1a373e0bdd6171fa4b2c4cacfdf.png" group-title="FRANCE",||FR|| FRANCE 4 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/11
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="||FR|| FRANCE 5 HD" tvg-logo="http://obsfullhd.tv:25461/images/761272bb4e226fe6fa1410e201a48305.png" group-title="FRANCE",||FR|| FRANCE 5 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/13
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| FRANCE O HD" tvg-logo="http://obsfullhd.tv:25461/images/1d88f3c156b9aafbe3fda54419f345ed.png" group-title="FRANCE",||FR|| FRANCE O HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/14
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="||FR|| M6 HD" tvg-logo="http://obsfullhd.tv:25461/images/4ffdee759cbc69c8f2391f78d81d8b06.png" group-title="FRANCE",||FR|| M6 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/15
+#EXTINF:-1 tvg-id="Arte.fr" tvg-name="||FR|| ARTE HD" tvg-logo="http://obsfullhd.tv:25461/images/74f8c0c5f6fbd6457cd50cf1dbd24c98.png" group-title="FRANCE",||FR|| ARTE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/16
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="||FR|| CANAL+ HD" tvg-logo="http://obsfullhd.tv:25461/images/43da9e28386b76fac7cace34e9239038.png" group-title="FRANCE",||FR|| CANAL+ HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/17
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="||FR|| CANAL+ CINEMA HD" tvg-logo="http://obsfullhd.tv:25461/images/d0f129e9c14046318ba92127eb397c05.png" group-title="FRANCE",||FR|| CANAL+ CINEMA HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/18
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="||FR|| CANAL+ SPORT HD" tvg-logo="http://obsfullhd.tv:25461/images/b3c47fa4981def36f000de6f25cd3d7e.png" group-title="FRANCE",||FR|| CANAL+ SPORT HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/19
+#EXTINF:-1 tvg-id="CanalPlusSeries.fr" tvg-name="||FR|| CANAL+ SERIES HD" tvg-logo="http://obsfullhd.tv:25461/images/e626e6c4300941a37e7cf8adf6aaa750.png" group-title="FRANCE",||FR|| CANAL+ SERIES HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/20
+#EXTINF:-1 tvg-id="CanalPlusKIDS.fr" tvg-name="||FR|| CANAL+ KIDS HD" tvg-logo="http://obsfullhd.tv:25461/images/3c9f39dd935a5fd391c3f0c6510b7a5a.png" group-title="FRANCE",||FR|| CANAL+ KIDS HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/21
+#EXTINF:-1 tvg-id="CanalPlusDecale.fr" tvg-name="||FR|| CANAL+ DECALE HD" tvg-logo="http://obsfullhd.tv:25461/images/4dad25b618b11d02feb6aae320c01442.png" group-title="FRANCE",||FR|| CANAL+ DECALE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/22
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="||FR|| CINE+ PREMIER HD" tvg-logo="http://obsfullhd.tv:25461/images/7fbc3f8a90bf9af1796e14e8a013076a.png" group-title="FRANCE",||FR|| CINE+ PREMIER HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/23
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="||FR|| CINE+ FRISSON HD" tvg-logo="http://obsfullhd.tv:25461/images/38f81e886c3c7c446b09d2bd82ed7474.png" group-title="FRANCE",||FR|| CINE+ FRISSON HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/24
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="||FR|| CINE+ EMOTION HD" tvg-logo="http://obsfullhd.tv:25461/images/1953bd99a8f69e377452e0338d1d0fb9.png" group-title="FRANCE",||FR|| CINE+ EMOTION HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/25
+#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="||FR|| CINE+ FAMIZ HD" tvg-logo="http://obsfullhd.tv:25461/images/30778b6d97d4ecd3dbf3bae926bf6a4c.png" group-title="FRANCE",||FR|| CINE+ FAMIZ HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/26
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="||FR|| CINE+ CLASSIC HD" tvg-logo="http://obsfullhd.tv:25461/images/8f25192373ae70f82a6d3f2f1e72def0.png" group-title="FRANCE",||FR|| CINE+ CLASSIC HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/27
+#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="||FR|| OCS MAX HD" tvg-logo="http://obsfullhd.tv:25461/images/5706a5ef21e436377a5a671fa92c0310.png" group-title="FRANCE",||FR|| OCS MAX HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/28
+#EXTINF:-1 tvg-id="OCSCity.fr" tvg-name="||FR|| OCS CITY HD" tvg-logo="http://obsfullhd.tv:25461/images/cfd332af03aa8073aa25db1b9f6767d8.png" group-title="FRANCE",||FR|| OCS CITY HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/29
+#EXTINF:-1 tvg-id="OCSChoc.fr" tvg-name="||FR|| OCS CHOC HD" tvg-logo="http://obsfullhd.tv:25461/images/da324993f4f00ad8ef46ae2d421ab1be.png" group-title="FRANCE",||FR|| OCS CHOC HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/30
+#EXTINF:-1 tvg-id="OCSGeants.fr" tvg-name="||FR|| OCS GEANTS HD" tvg-logo="http://obsfullhd.tv:25461/images/ee80cc49f837a1e71578214299b4fadc.png" group-title="FRANCE",||FR|| OCS GEANTS HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/31
+#EXTINF:-1 tvg-id="AlticeStudio.fr" tvg-name="||FR|| ALTICE STUDIO HD" tvg-logo="http://obsfullhd.tv:25461/images/ccd7a2defb307164c28f8368c193c05b.png" group-title="FRANCE",||FR|| ALTICE STUDIO HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/32
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="||FR|| DISNEY CINEMA HD" tvg-logo="http://obsfullhd.tv:25461/images/c7236a0c42b9e1f25c0a04c1eed3b3a9.png" group-title="FRANCE",||FR|| DISNEY CINEMA HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/33
+#EXTINF:-1 tvg-id="TCM.fr" tvg-name="||FR|| TCM CINEMA HD" tvg-logo="http://obsfullhd.tv:25461/images/82e740bf52fee7f23c7141181a222c06.png" group-title="FRANCE",||FR|| TCM CINEMA HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/34
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="||FR|| PARAMOUNT CHANNEL HD" tvg-logo="http://obsfullhd.tv:25461/images/26a93dd69fd004ca1021ddde964754c3.png" group-title="FRANCE",||FR|| PARAMOUNT CHANNEL HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/35
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="||FR|| ACTION HD" tvg-logo="http://obsfullhd.tv:25461/images/18872c241065951fa9f06b145db1eb3e.png" group-title="FRANCE",||FR|| ACTION HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/36
+#EXTINF:-1 tvg-id="PolarPlus.fr" tvg-name="||FR|| POLAR+ HD" tvg-logo="http://obsfullhd.tv:25461/images/9ba10033cb7829c462477e0502226cca.png" group-title="FRANCE",||FR|| POLAR+ HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/37
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="||FR|| CRIME DISTRICT HD" tvg-logo="http://obsfullhd.tv:25461/images/7098da98cedc0f579a9c0bbc73128234.png" group-title="FRANCE",||FR|| CRIME DISTRICT HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/38
+#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="||FR|| COMEDIE+ HD" tvg-logo="http://obsfullhd.tv:25461/images/989bbc0dc03e1bf0d588a4db97c51101.png" group-title="FRANCE",||FR|| COMEDIE+ HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/39
+#EXTINF:-1 tvg-id="13eRue.fr" tvg-name="||FR|| 13EME RUE HD" tvg-logo="http://obsfullhd.tv:25461/images/4445cc3d6398c038eb9f4651aa3ba005.png" group-title="FRANCE",||FR|| 13EME RUE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/40
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="||FR|| SYFY HD" tvg-logo="http://obsfullhd.tv:25461/images/54ad341efee4737b060379574621665e.png" group-title="FRANCE",||FR|| SYFY HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/41
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="||FR|| SERIE CLUB HD" tvg-logo="http://obsfullhd.tv:25461/images/fdb5af270020cf0ab7aa64eab88d7463.png" group-title="FRANCE",||FR|| SERIE CLUB HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/42
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="||FR|| MTV HD" tvg-logo="http://obsfullhd.tv:25461/images/520f08d7d2ae3fafe39be1dfabf09f2f.png" group-title="FRANCE",||FR|| MTV HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/43
+#EXTINF:-1 tvg-id="EEntertainment.fr" tvg-name="||FR|| E! ENTERTAINMENT HD" tvg-logo="http://obsfullhd.tv:25461/images/ab7878432146095e5e5f3a2d68f91b52.png" group-title="FRANCE",||FR|| E! ENTERTAINMENT HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/44
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="||FR|| GAME ONE HD" tvg-logo="http://obsfullhd.tv:25461/images/bda9ed39756b918c20a55a4bddd187fd.png" group-title="FRANCE",||FR|| GAME ONE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/45
+#EXTINF:-1 tvg-id="JOne.fr" tvg-name="||FR|| J-ONE HD" tvg-logo="http://obsfullhd.tv:25461/images/6a121cbefc660caba90e43074613620d.png" group-title="FRANCE",||FR|| J-ONE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/46
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="||FR|| MANGAS HD" tvg-logo="http://obsfullhd.tv:25461/images/c6af7d0afabaeabe1ba7d6345b4d3c75.png" group-title="FRANCE",||FR|| MANGAS HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/47
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="||FR|| AB1 HD" tvg-logo="http://obsfullhd.tv:25461/images/68b6a776378decbb4a79cda89087c4ce.png" group-title="FRANCE",||FR|| AB1 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/48
+#EXTINF:-1 tvg-id="AB3.fr" tvg-name="||FR|| AB3 HD" tvg-logo="http://obsfullhd.tv:25461/images/e7620129086147c3fc5d961c90b1f805.png" group-title="FRANCE",||FR|| AB3 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/49
+#EXTINF:-1 tvg-id="TvBreizh.fr" tvg-name="||FR|| TV BREIZH HD" tvg-logo="http://obsfullhd.tv:25461/images/57a1b0a60e777f468a2ac4b705dcddbd.png" group-title="FRANCE",||FR|| TV BREIZH HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/50
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="||FR|| TEVA HD" tvg-logo="http://obsfullhd.tv:25461/images/8f33e28dac4abfec68a367fa0e71772c.png" group-title="FRANCE",||FR|| TEVA HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/51
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="||FR|| PARIS PREMIERE HD" tvg-logo="http://obsfullhd.tv:25461/images/0e42ddd35bf306220f8e922d399ff792.png" group-title="FRANCE",||FR|| PARIS PREMIERE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/52
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="||FR|| RTL 9 HD" tvg-logo="http://obsfullhd.tv:25461/images/76eff4be003c305e4305e3b1fae5d3ac.png" group-title="FRANCE",||FR|| RTL 9 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/53
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="||FR|| C8 HD" tvg-logo="http://obsfullhd.tv:25461/images/b6d67126e0f2008ce2dd99ced1de8a30.png" group-title="FRANCE",||FR|| C8 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/54
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="||FR|| W9 HD" tvg-logo="http://obsfullhd.tv:25461/images/02b27611731b9aa5da414daf5d2031a7.png" group-title="FRANCE",||FR|| W9 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/55
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="||FR|| TMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/700px-TMC_logo.svg.png" group-title="FRANCE",||FR|| TMC HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/56
+#EXTINF:-1 tvg-id="NT1.fr" tvg-name="||FR|| TFX HD" tvg-logo="http://obsfullhd.tv:25461/images/98732efa4278080ec3f48ff90b463f91.png" group-title="FRANCE",||FR|| TFX HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/57
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="||FR|| NRJ 12 HD" tvg-logo="http://obsfullhd.tv:25461/images/844d107eb533e85736ee12e0396a737f.png" group-title="FRANCE",||FR|| NRJ 12 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/58
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="||FR|| C STAR HD" tvg-logo="http://obsfullhd.tv:25461/images/bcac1ce266ae819403c6d73cabb37fba.png" group-title="FRANCE",||FR|| C STAR HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/59
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="||FR|| 6TER HD" tvg-logo="http://obsfullhd.tv:25461/images/fd74010abfb625ac31d49f0ad91e3428.png" group-title="FRANCE",||FR|| 6TER HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/60
+#EXTINF:-1 tvg-id="Numero23.fr" tvg-name="||FR|| RMC STORY HD" tvg-logo="http://obsfullhd.tv:25461/images/625897a32beb61135c431c6da534f1fe.png" group-title="FRANCE",||FR|| RMC STORY HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/61
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="||FR|| CHERIE 25 HD" tvg-logo="http://obsfullhd.tv:25461/images/7c3b8d9712d188f3fed3231667f545b5.png" group-title="FRANCE",||FR|| CHERIE 25 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/62
+#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="||FR|| TV5 MONDE HD" tvg-logo="http://obsfullhd.tv:25461/images/4c46facd57ea1d4019315e3106ba1258.png" group-title="FRANCE",||FR|| TV5 MONDE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/63
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="||FR|| PLANETE+ HD" tvg-logo="http://obsfullhd.tv:25461/images/f3a49fdf58e2cffdf01d8dfd37ed26ea.png" group-title="FRANCE",||FR|| PLANETE+ HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/64
+#EXTINF:-1 tvg-id="PLANETEJustice.fr" tvg-name="||FR|| PLANETE+ CI HD" tvg-logo="http://obsfullhd.tv:25461/images/5bdc92a98fe21e64bda92e9b880b714e.png" group-title="FRANCE",||FR|| PLANETE+ CI HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/65
+#EXTINF:-1 tvg-id="PlaneteAction.fr" tvg-name="||FR|| PLANETE+ A&E HD" tvg-logo="http://obsfullhd.tv:25461/images/ec79a3d627b4a7cd79c2159f0d3be685.png" group-title="FRANCE",||FR|| PLANETE+ A&E HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/66
+#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="||FR|| NATIONAL GEOGRAPHIE HD" tvg-logo="http://obsfullhd.tv:25461/images/8c47b3193734ae967b7de25479f373fb.png" group-title="FRANCE",||FR|| NATIONAL GEOGRAPHIE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/67
+#EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="||FR|| NATIONAL GEOGRAPHIE WILD HD" tvg-logo="http://obsfullhd.tv:25461/images/4752840ae2f98bc3de97575c039562d3.png" group-title="FRANCE",||FR|| NATIONAL GEOGRAPHIE WILD HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/68
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="||FR|| DISCOVERY CHANNEL HD" tvg-logo="http://obsfullhd.tv:25461/images/a281ac3e2b560404c8ca6b83f1855d5b.png" group-title="FRANCE",||FR|| DISCOVERY CHANNEL HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/69
+#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="||FR|| DISCOVERY SCIENCE HD" tvg-logo="http://obsfullhd.tv:25461/images/2fbdd4f55ec70f6333570f59dfa60bcf.png" group-title="FRANCE",||FR|| DISCOVERY SCIENCE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/70
+#EXTINF:-1 tvg-id="DiscoveryFamily.fr" tvg-name="||FR|| DISCOVERY FAMILY HD" tvg-logo="http://obsfullhd.tv:25461/images/a281ac3e2b560404c8ca6b83f1855d5b.png" group-title="FRANCE",||FR|| DISCOVERY FAMILY HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/71
+#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="||FR|| DISCOVERY INVESTIGATION HD" tvg-logo="http://obsfullhd.tv:25461/images/a281ac3e2b560404c8ca6b83f1855d5b.png" group-title="FRANCE",||FR|| DISCOVERY INVESTIGATION HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/72
+#EXTINF:-1 tvg-id="MyCuisine.fr" tvg-name="||FR|| MY CUISINE HD" tvg-logo="http://obsfullhd.tv:25461/images/e2a374d8cdd02123e7958f32d5154d87.png" group-title="FRANCE",||FR|| MY CUISINE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/73
+#EXTINF:-1 tvg-id="Voyage.fr" tvg-name="||FR|| VOYAGE HD" tvg-logo="http://obsfullhd.tv:25461/images/bdf49e74ff818d5e4ccf61ad26f7a06e.png" group-title="FRANCE",||FR|| VOYAGE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/74
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="||FR|| USHUAIA TV HD" tvg-logo="http://obsfullhd.tv:25461/images/4f190903411c9e7fdb7f84ca73c40251.png" group-title="FRANCE",||FR|| USHUAIA TV HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/75
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="||FR|| HISTOIRE HD" tvg-logo="http://obsfullhd.tv:25461/images/17453026e9478fc12662a1971bdc8a69.png" group-title="FRANCE",||FR|| HISTOIRE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/76
+#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="||FR|| TOUTE L'HISTOIRE HD" tvg-logo="http://obsfullhd.tv:25461/images/353d21ee87d623b25ddf044a2442f099.png" group-title="FRANCE",||FR|| TOUTE L'HISTOIRE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/77
+#EXTINF:-1 tvg-id="ScienceEtVieTV.fr" tvg-name="||FR|| SCIENCE ET VIE HD" tvg-logo="http://obsfullhd.tv:25461/images/c7945c04a8d27c3d2d0a19de616242fb.png" group-title="FRANCE",||FR|| SCIENCE ET VIE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/78
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="||FR|| ANIMAUX HD" tvg-logo="http://obsfullhd.tv:25461/images/aee51bf936cb2541cd31525bdbdb7427.png" group-title="FRANCE",||FR|| ANIMAUX HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/79
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="||FR|| TREK HD" tvg-logo="http://obsfullhd.tv:25461/images/42e27fc41b4ccdd21ee22dda8dd4b8ba.png" group-title="FRANCE",||FR|| TREK HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/80
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="||FR|| SEASONS HD" tvg-logo="http://obsfullhd.tv:25461/images/b4f55b972bac563064c46bd75e08191f.png" group-title="FRANCE",||FR|| SEASONS HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/81
+#EXTINF:-1 tvg-id="ChasseEtPeche.fr" tvg-name="||FR|| CHASSE ET PECHE HD" tvg-logo="http://obsfullhd.tv:25461/images/edd90dff723f7310354cb2643ab0a6ca.png" group-title="FRANCE",||FR|| CHASSE ET PECHE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/82
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-name="||FR|| RMC DECOUVERTE HD" tvg-logo="http://obsfullhd.tv:25461/images/2bbf7fb2d2d7ba71f71229f8454c3b6b.png" group-title="FRANCE",||FR|| RMC DECOUVERTE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/83
+#EXTINF:-1 tvg-id="FashionTV.fr" tvg-name="||FR|| FASHION TV HD" tvg-logo="http://obsfullhd.tv:25461/images/031704c32424738c8265cb1c5412a817.png" group-title="FRANCE",||FR|| FASHION TV HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/84
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="||FR|| CNEWS HD" tvg-logo="http://obsfullhd.tv:25461/images/ffb576a0cfa83a50a97a7baa6302ec99.png" group-title="FRANCE",||FR|| CNEWS HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/85
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="||FR|| BFM NEWS HD" tvg-logo="http://obsfullhd.tv:25461/images/c27673b138b2bce43c76a00e2d6768dc.png" group-title="FRANCE",||FR|| BFM NEWS HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/86
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="||FR|| LCI HD" tvg-logo="http://obsfullhd.tv:25461/images/4a2ef0c54d57bec14ba0f761dbc9b86c.png" group-title="FRANCE",||FR|| LCI HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/87
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="||FR|| EURONEWS HD" tvg-logo="http://obsfullhd.tv:25461/images/6c350ee5946d70a72cd960ead9ddfa42.png" group-title="FRANCE",||FR|| EURONEWS HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/88
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="||FR|| FRANCE 24 HD" tvg-logo="http://obsfullhd.tv:25461/images/8b945bd8b9a76710faabb97db96e5dbc.png" group-title="FRANCE",||FR|| FRANCE 24 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/89
+#EXTINF:-1 tvg-id="LCP100.fr" tvg-name="||FR|| LCP HD" tvg-logo="http://obsfullhd.tv:25461/images/e593d01e0e6f527c99ae387e127fdede.png" group-title="FRANCE",||FR|| LCP HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/90
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="||FR|| INFOSPORT+ HD" tvg-logo="http://obsfullhd.tv:25461/images/c08570ffcc111c982374d631f317ed20.png" group-title="FRANCE",||FR|| INFOSPORT+ HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/96
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="||FR|| EUROSPORT 1 HD" tvg-logo="http://obsfullhd.tv:25461/images/3d857b949eba4844a9844d4530fe52a7.png" group-title="FRANCE",||FR|| EUROSPORT 1 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/97
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="||FR|| EUROSPORT 2 HD" tvg-logo="http://obsfullhd.tv:25461/images/855b39eb6124ae70bcd479b1e808621f.png" group-title="FRANCE",||FR|| EUROSPORT 2 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/98
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="||FR|| EQUIDIA TV HD" tvg-logo="http://obsfullhd.tv:25461/images/4ad02b3f8ca59277d2b49d0dc865b2aa.png" group-title="FRANCE",||FR|| EQUIDIA TV HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/99
+#EXTINF:-1 tvg-id="GolfChannel.fr" tvg-name="||FR|| GOLF CHANNEL HD" tvg-logo="http://obsfullhd.tv:25461/images/613134fb44bd84a537efd5ec497ea6fd.png" group-title="FRANCE",||FR|| GOLF CHANNEL HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/100
+#EXTINF:-1 tvg-id="FootPlus24.fr" tvg-name="||FR||  FOOT+ 24/24 HD" tvg-logo="http://obsfullhd.tv:25461/images/0805a3a783b9cfcf0f6441e9ff2b359f.png" group-title="FRANCE",||FR||  FOOT+ 24/24 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/101
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="||FR|| L'EQUIPE 21 HD" tvg-logo="http://obsfullhd.tv:25461/images/d9ecff9026d0e470470187c10dcc7274.png" group-title="FRANCE",||FR|| L'EQUIPE 21 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/102
+#EXTINF:-1 tvg-id="BabyTV.fr" tvg-name="||FR|| BABY TV HD" tvg-logo="http://obsfullhd.tv:25461/images/7b45ae290c00efb4bcab4cb7012e6c5b.png" group-title="FRANCE",||FR|| BABY TV HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/113
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="||FR|| DISNEY JUNIOR HD" tvg-logo="http://obsfullhd.tv:25461/images/5630ee277a9e62d8bba6b8c708dbdb9a.png" group-title="FRANCE",||FR|| DISNEY JUNIOR HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/114
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="||FR|| PIWI+ HD" tvg-logo="http://obsfullhd.tv:25461/images/320a8416521cdd3148f4a69a5db56097.png" group-title="FRANCE",||FR|| PIWI+ HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/115
+#EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-name="||FR|| NICKELODEON JUNIOR HD" tvg-logo="http://obsfullhd.tv:25461/images/9fa396f57d39694165409442393c0c0e.png" group-title="FRANCE",||FR|| NICKELODEON JUNIOR HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/116
+#EXTINF:-1 tvg-id="TIJI.fr" tvg-name="||FR|| TIJI HD" tvg-logo="http://obsfullhd.tv:25461/images/7ec6d90f1d87ec872975c8029bdee9bd.png" group-title="FRANCE",||FR|| TIJI HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/117
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="||FR|| BOOMERANG HD" tvg-logo="http://obsfullhd.tv:25461/images/98b89b6d8aa399fde5675662bbc34aee.png" group-title="FRANCE",||FR|| BOOMERANG HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/118
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="||FR|| CARTOON NETWORK HD" tvg-logo="http://obsfullhd.tv:25461/images/0a08a7c1b345158fbaf67e3672f32957.png" group-title="FRANCE",||FR|| CARTOON NETWORK HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/119
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="||FR|| NICKELODEON HD" tvg-logo="http://obsfullhd.tv:25461/images/1d24d4c0e7c3413d7d19b1fceeb2f8c5.png" group-title="FRANCE",||FR|| NICKELODEON HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/120
+#EXTINF:-1 tvg-id="TeleToonPlus.fr" tvg-name="||FR|| TELETOON+ HD" tvg-logo="http://obsfullhd.tv:25461/images/101009b9df9b68521e4086a908766546.png" group-title="FRANCE",||FR|| TELETOON+ HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/121
+#EXTINF:-1 tvg-id="DisneyXD.fr" tvg-name="||FR|| DISNEY XD HD" tvg-logo="http://obsfullhd.tv:25461/images/87d5972295494d9f31a3c926886fe591.png" group-title="FRANCE",||FR|| DISNEY XD HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/122
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="||FR|| CANAL J HD" tvg-logo="http://obsfullhd.tv:25461/images/dd8100da344269f2b9fc3de90b4d4d72.png" group-title="FRANCE",||FR|| CANAL J HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/123
+#EXTINF:-1 tvg-id="Boing.fr" tvg-name="||FR|| BOING HD" tvg-logo="http://obsfullhd.tv:25461/images/6af9296befc8c958c8d9deb2d2a71c36.png" group-title="FRANCE",||FR|| BOING HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/124
+#EXTINF:-1 tvg-id="Toonami.fr" tvg-name="||FR|| TOONAMI HD" tvg-logo="http://obsfullhd.tv:25461/images/c59d82825bd764d6b9d14d757fe40653.png" group-title="FRANCE",||FR|| TOONAMI HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/125
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="||FR|| DISNEY CHANNEL HD" tvg-logo="http://obsfullhd.tv:25461/images/410dc6ac925be1b0fd80dad61c348b49.png" group-title="FRANCE",||FR|| DISNEY CHANNEL HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/126
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="||FR|| GULLI HD" tvg-logo="http://obsfullhd.tv:25461/images/9d8d8c080161d3339d7629e740afdc9f.png" group-title="FRANCE",||FR|| GULLI HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/127
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="||FR|| TRACE URBAN HD" tvg-logo="http://obsfullhd.tv:25461/images/d6f12222dadb728845e95cdf96ded252.png" group-title="FRANCE",||FR|| TRACE URBAN HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/128
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name="||FR|| MCM HD" tvg-logo="http://obsfullhd.tv:25461/images/7439bd9e65b5010f45170ba5c158732a.png" group-title="FRANCE",||FR|| MCM HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/147
+#EXTINF:-1 tvg-id="WarnerTV.fr" tvg-name="||FR|| WARNER HD" tvg-logo="http://obsfullhd.tv:25461/images/8767e1d553034848135b856512ac5c86.png" group-title="FRANCE",||FR|| WARNER HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/155
+#EXTINF:-1 tvg-id="ParamountChannelDecale.fr" tvg-name="||FR|| PARAMOUNT DECALE HD" tvg-logo="http://obsfullhd.tv:25461/images/26a93dd69fd004ca1021ddde964754c3.png" group-title="FRANCE",||FR|| PARAMOUNT DECALE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/156
+#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="||FR|| CINE CLUB HD" tvg-logo="http://obsfullhd.tv:25461/images/1064ff350d9637550eca3a59a88e72f5.png" group-title="FRANCE",||FR|| CINE CLUB HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/157
+#EXTINF:-1 tvg-id="BET.fr" tvg-name="||FR|| BET HD" tvg-logo="http://obsfullhd.tv:25461/images/335eab3c971ae7d78aa0d417e6f2338f.png" group-title="FRANCE",||FR|| BET HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/158
+#EXTINF:-1 tvg-id="FootPlus24.fr" tvg-name="||FR|| FOOT 24/24 HD" tvg-logo="http://obsfullhd.tv:25461/images/0805a3a783b9cfcf0f6441e9ff2b359f.png" group-title="FRANCE",||FR|| FOOT 24/24 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/159
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| AB MOTEURS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/39/AB_Moteurs_logo.svg/545px-AB_Moteurs_logo.svg.png" group-title="FRANCE",||FR|| AB MOTEURS HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/160
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="||FR|| TF1 SERIES & FILMS HD" tvg-logo="http://obsfullhd.tv:25461/images/016e07339979b7ec40c39bba460c733f.png" group-title="FRANCE",||FR|| TF1 SERIES & FILMS HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/392
+#EXTINF:-1 tvg-id="ABMoteurs.fr" tvg-name="||FR|| AUTO MOTO HD" tvg-logo="http://obsfullhd.tv:25461/images/5583ca2b913ffa4f94851234d79b6723.png" group-title="FRANCE",||FR|| AUTO MOTO HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/396
+#EXTINF:-1 tvg-id="MotorsportTV.fr" tvg-name="||FR|| MOTORSPORT HD" tvg-logo="http://obsfullhd.tv:25461/images/0e8495db62807ad95282da89ce307aa4.png" group-title="FRANCE",||FR|| MOTORSPORT HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/397
+#EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="||FR|| NRJ HITS HD" tvg-logo="http://obsfullhd.tv:25461/images/7e1547c1e569ff8a3ff97a916570af36.png" group-title="FRANCE",||FR|| NRJ HITS HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/438
+#EXTINF:-1 tvg-id="TraceTropical.fr" tvg-name="||FR|| TRACE TROPICAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Trace_Tropical.svg/langfr-150px-Trace_Tropical.svg.png" group-title="FRANCE",||FR|| TRACE TROPICAL HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/439
+#EXTINF:-1 tvg-id="TraceAfrica.fr" tvg-name="||FR|| TRACE AFRICA HD" tvg-logo="http://obsfullhd.tv:25461/images/9ecefc0dc783e2babeff10ab0430036d.png" group-title="FRANCE",||FR|| TRACE AFRICA HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/440
+#EXTINF:-1 tvg-id="TraceToca.fr" tvg-name="||FR|| TRACE TOCA HD" tvg-logo="http://obsfullhd.tv:25461/images/06cdb30509bd4fb04a82ba1060eb5e9f.png" group-title="FRANCE",||FR|| TRACE TOCA HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/441
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| TRACE NAIJA HD" tvg-logo="http://obsfullhd.tv:25461/images/159e11d7b9dc491cbb3cf862fd08f809.png" group-title="FRANCE",||FR|| TRACE NAIJA HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/442
+#EXTINF:-1 tvg-id="TraceKitoko.af" tvg-name="||FR|| TRACE KITOKO HD" tvg-logo="http://obsfullhd.tv:25461/images/5bf7ebb5e1e0b6ccbfbc5353146ba5d8.png" group-title="FRANCE",||FR|| TRACE KITOKO HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/443
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| TRACE MZIKI HD" tvg-logo="http://obsfullhd.tv:25461/images/4cad485fa40f5070c9134705813f47d5.png" group-title="FRANCE",||FR|| TRACE MZIKI HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/444
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| TRACE AYITI HD" tvg-logo="http://obsfullhd.tv:25461/images/07b8cb648d0a86beae0acc4596c789cd.png" group-title="FRANCE",||FR|| TRACE AYITI HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/445
+#EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="||FR|| TRACE LATINA HD" tvg-logo="http://obsfullhd.tv:25461/images/470aeea43be457a6e628dba2c39abf80.png" group-title="FRANCE",||FR|| TRACE LATINA HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/446
+#EXTINF:-1 tvg-id="MCMTop.fr" tvg-name="||FR|| MCM TOP HD" tvg-logo="http://obsfullhd.tv:25461/images/3cec15d6b71eb757e14e32ff59445431.png" group-title="FRANCE",||FR|| MCM TOP HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/449
+#EXTINF:-1 tvg-id="RFMTV.fr" tvg-name="||FR|| RFM TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/RFM_TV_logo_2014.png/200px-RFM_TV_logo_2014.png" group-title="FRANCE",||FR|| RFM TV HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/452
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| BRAVA HD" tvg-logo="http://obsfullhd.tv:25461/images/ed8299083788a1229433deee72d4b4a2.png" group-title="FRANCE",||FR|| BRAVA HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/455
+#EXTINF:-1 tvg-id="GongMax.fr" tvg-name="||FR|| GONG MAX  HD" tvg-logo="http://obsfullhd.tv:25461/images/d0ac3e77bf37565a35e4a1e97659d278.png" group-title="FRANCE",||FR|| GONG MAX  HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/481
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="||FR|| CSTAR HD" tvg-logo="http://obsfullhd.tv:25461/images/bcac1ce266ae819403c6d73cabb37fba.png" group-title="FRANCE",||FR|| CSTAR HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/491
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| CINE FX HD" tvg-logo="http://obsfullhd.tv:25461/images/669ca8914263d9f9a33bc276294fffe9.png" group-title="FRANCE",||FR|| CINE FX HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/493
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="||FR|| DISCOVERY HD" tvg-logo="http://obsfullhd.tv:25461/images/a281ac3e2b560404c8ca6b83f1855d5b.png" group-title="FRANCE",||FR|| DISCOVERY HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/494
+#EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="||FR|| MEZZO LIVE HD" tvg-logo="http://obsfullhd.tv:25461/images/e76422f9fd6fffdd32ecad5ec08334a6.png" group-title="FRANCE",||FR|| MEZZO LIVE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/495
+#EXTINF:-1 tvg-id="Nickelodeon4Teen.fr" tvg-name="||FR|| NICKELODEON TEEN HD" tvg-logo="http://obsfullhd.tv:25461/images/ef3fdf41ea260165408763a8a8a6ad1c.png" group-title="FRANCE",||FR|| NICKELODEON TEEN HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/913
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| A LA CARTE 1 HD" tvg-logo="" group-title="FRANCE",||FR|| A LA CARTE 1 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/914
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| A LA CARTE 2 HD" tvg-logo="" group-title="FRANCE",||FR|| A LA CARTE 2 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/915
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| A LA CARTE 3 HD" tvg-logo="" group-title="FRANCE",||FR|| A LA CARTE 3 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/916
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| A LA CARTE 4 HD" tvg-logo="" group-title="FRANCE",||FR|| A LA CARTE 4 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/917
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| A LA CARTE 5 HD" tvg-logo="" group-title="FRANCE",||FR|| A LA CARTE 5 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/918
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| A LA CARTE 6 HD" tvg-logo="" group-title="FRANCE",||FR|| A LA CARTE 6 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/919
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| A LA CARTE 7 HD" tvg-logo="" group-title="FRANCE",||FR|| A LA CARTE 7 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/920
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| A LA CARTE 8 HD" tvg-logo="" group-title="FRANCE",||FR|| A LA CARTE 8 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/921
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| A LA CARTE 9 HD" tvg-logo="" group-title="FRANCE",||FR|| A LA CARTE 9 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/922
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| A LA CARTE 10 HD" tvg-logo="" group-title="FRANCE",||FR|| A LA CARTE 10 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/923
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| A LA CARTE 11 HD" tvg-logo="" group-title="FRANCE",||FR|| A LA CARTE 11 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/924
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| A LA CARTE 12 HD" tvg-logo="" group-title="FRANCE",||FR|| A LA CARTE 12 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/925
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| A LA CARTE 13 HD" tvg-logo="" group-title="FRANCE",||FR|| A LA CARTE 13 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/926
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| A LA CARTE 14 HD" tvg-logo="" group-title="FRANCE",||FR|| A LA CARTE 14 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/927
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| A LA CARTE 15 HD" tvg-logo="" group-title="FRANCE",||FR|| A LA CARTE 15 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/928
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| A LA CARTE 16 HD" tvg-logo="" group-title="FRANCE",||FR|| A LA CARTE 16 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/929
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| A LA CARTE 17 HD" tvg-logo="" group-title="FRANCE",||FR|| A LA CARTE 17 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/930
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| A LA CARTE 18 HD" tvg-logo="" group-title="FRANCE",||FR|| A LA CARTE 18 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/931
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| A LA CARTE 19 HD" tvg-logo="" group-title="FRANCE",||FR|| A LA CARTE 19 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/932
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| A LA CARTE 20 HD" tvg-logo="" group-title="FRANCE",||FR|| A LA CARTE 20 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/933
+#EXTINF:-1 tvg-id="PlaneteAction.fr" tvg-name="||FR|| PLANETE A&E HD" tvg-logo="http://obsfullhd.tv:25461/images/fa202196a3e3d57a7a51216905509cf6.png" group-title="FRANCE",||FR|| PLANETE A&E HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/935
+#EXTINF:-1 tvg-id="GrandLilleTV.fr" tvg-name="||FR|| GRAND LILLE TV HD" tvg-logo="http://obsfullhd.tv:25461/images/1742932052c9c0e0290bc625a5168221.png" group-title="FRANCE",||FR|| GRAND LILLE TV HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/937
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| FRANCOPHONIE 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_La_Francophonie.svg/2560px-Flag_of_La_Francophonie.svg.png" group-title="FRANCE",||FR|| FRANCOPHONIE 24 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/938
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| D5 TV HD" tvg-logo="http://obsfullhd.tv:25461/images/6fc6f5100058852efd5f6c43ba9e6d6e.png" group-title="FRANCE",||FR|| D5 TV HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/939
+#EXTINF:-1 tvg-id="Gong.fr" tvg-name="||FR|| GONG TV HD" tvg-logo="http://obsfullhd.tv:25461/images/4818900eefe65ebfb2975127dee0939a.png" group-title="FRANCE",||FR|| GONG TV HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/940
+#EXTINF:-1 tvg-id="TVR" tvg-name="||FR|| TVR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/TVR_%28Bretagne%29_logo_2011.png/150px-TVR_%28Bretagne%29_logo_2011.png" group-title="FRANCE",||FR|| TVR HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/946
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| OCS  GO  CINE 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/OCS.svg/langfr-140px-OCS.svg.png" group-title="FRANCE",||FR|| OCS  GO  CINE 1 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1682
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="||FR|| BFM BUSINESS HD" tvg-logo="http://obsfullhd.tv:25461/images/eb655a9c80ae232d622196bba6148b98.png" group-title="FRANCE",||FR|| BFM BUSINESS HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1951
+#EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="||FR|| BFM PARIS HD" tvg-logo="http://obsfullhd.tv:25461/images/19e79b626be48271a3cab3570f11b963.png" group-title="FRANCE",||FR|| BFM PARIS HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1954
+#EXTINF:-1 tvg-id="I24news.fr" tvg-name="||FR|| I24 NEWS HD" tvg-logo="http://obsfullhd.tv:25461/images/af5761c41df15c2df0cda8df84065ab4.png" group-title="FRANCE",||FR|| I24 NEWS HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1958
+#EXTINF:-1 tvg-id="Melody.fr" tvg-name="||FR|| MELODY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/T%C3%A9l%C3%A9_M%C3%A9lody.svg/1200px-T%C3%A9l%C3%A9_M%C3%A9lody.svg.png" group-title="FRANCE",||FR|| MELODY TV HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1961
+#EXTINF:-1 tvg-id="VH1.fr" tvg-name="||FR|| VH1 HD" tvg-logo="http://obsfullhd.tv:25461/images/3a19a7f6ca26290cd4145093dbcb6a55.png" group-title="FRANCE",||FR|| VH1 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1963
+#EXTINF:-1 tvg-id="VH1Classic.fr" tvg-name=" ||FR|| VH1 CLASSIC HD" tvg-logo="http://obsfullhd.tv:25461/images/262bafe283947ca21f160c7bb5711b93.png" group-title="FRANCE", ||FR|| VH1 CLASSIC HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1964
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name=" ||FR|| MTV LIVE HD" tvg-logo="http://obsfullhd.tv:25461/images/7f48700a747487962f6b2ba01cd30aca.png" group-title="FRANCE", ||FR|| MTV LIVE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1965
+#EXTINF:-1 tvg-id="MTVHits.fr" tvg-name=" ||FR|| MTV HITS HD" tvg-logo="http://obsfullhd.tv:25461/images/a1a316d311d307df209a0618cf5dba59.png" group-title="FRANCE", ||FR|| MTV HITS HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1966
+#EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="||FR|| GOLF+ HD" tvg-logo="http://obsfullhd.tv:25461/images/402e9d8af444614f165eb5518ac3dd00.png" group-title="FRANCE",||FR|| GOLF+ HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1984
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="||FR|| EQUIDIA LIVE HD" tvg-logo="http://obsfullhd.tv:25461/images/60781526836339a8b0fac89940e36ec1.png" group-title="FRANCE",||FR|| EQUIDIA LIVE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1987
+#EXTINF:-1 tvg-id="NovelasTV.fr" tvg-name="||FR|| NOVELAS HD" tvg-logo="http://obsfullhd.tv:25461/images/f334c0944bf091c580500502e375812f.png" group-title="FRANCE",||FR|| NOVELAS HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1990
+#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="||FR|| CINE+ CLUB HD" tvg-logo="http://obsfullhd.tv:25461/images/1064ff350d9637550eca3a59a88e72f5.png" group-title="FRANCE",||FR|| CINE+ CLUB HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1996
+#EXTINF:-1 tvg-id="ES1.fr" tvg-name="||FR|| ES1 HD" tvg-logo="http://obsfullhd.tv:25461/images/f7f27842f569ace56df9b2f0edfad6c4.png" group-title="FRANCE",||FR|| ES1 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1998
+#EXTINF:-1 tvg-id="LaChaineMeteo.fr" tvg-name=" ||FR|| LA CHAINE METEO HD" tvg-logo="http://obsfullhd.tv:25461/images/66550a7e18df0a383be347c3d649acfb.png" group-title="FRANCE", ||FR|| LA CHAINE METEO HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2005
+#EXTINF:-1 tvg-id="Viceland.fr" tvg-name="||FR|| VICELAND  HD" tvg-logo="http://obsfullhd.tv:25461/images/dd908ece70861af10aeab5e7453c3c7a.png" group-title="FRANCE",||FR|| VICELAND  HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2007
+#EXTINF:-1 tvg-id="TeleMB.be" tvg-name="||FR|| MB LIVE TV HD" tvg-logo="http://obsfullhd.tv:25461/images/6d2fe94215cf488793ad08541b6c5d2b.png" group-title="FRANCE",||FR|| MB LIVE TV HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2008
+#EXTINF:-1 tvg-id="Nickelodeon4Teen.fr" tvg-name="||FR|| NICKELODEON 4TEEN HD" tvg-logo="http://obsfullhd.tv:25461/images/1bda881a2e84c780463b44b6100dcf30.png" group-title="FRANCE",||FR|| NICKELODEON 4TEEN HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2021
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="||FR|| NUMERO 23 HD" tvg-logo="" group-title="FRANCE",||FR|| NUMERO 23 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2280
+#EXTINF:-1 tvg-id="SundanceTV.fr" tvg-name="||FR|| SUNDANCE TV HD" tvg-logo="http://obsfullhd.tv:25461/images/3eea757693671c29fd2cf8a89bc7fba0.png" group-title="FRANCE",||FR|| SUNDANCE TV HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2281
+#EXTINF:-1 tvg-id="TRACESportStars.fr" tvg-name="||FR|| TRACE SPORTS STARS HD" tvg-logo="http://obsfullhd.tv:25461/images/27d79760bfd3d37349c6d4f1dec8ee7b.png" group-title="FRANCE",||FR|| TRACE SPORTS STARS HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2667
+#EXTINF:-1 tvg-id="TraceGospel.af" tvg-name="||FR|| TRACE GOSPEL HD" tvg-logo="http://obsfullhd.tv:25461/images/ed4b473a4df1772535bd5454ee908b3b.png" group-title="FRANCE",||FR|| TRACE GOSPEL HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2668
+#EXTINF:-1 tvg-id="KTO.fr" tvg-name=" ||FR|| KTO HD" tvg-logo="http://obsfullhd.tv:25461/images/5f014f30db88429ed0c94bd32467d2f5.png" group-title="FRANCE", ||FR|| KTO HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2669
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| EXTREME SPORT HD" tvg-logo="http://obsfullhd.tv:25461/images/29bb9d9ce66f8e7da8a7b95a5fef9118.png" group-title="FRANCE",||FR|| EXTREME SPORT HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2759
+#EXTINF:-1 tvg-id="NollywoodTV.af" tvg-name="||FR|| NOLLYWOOD HD" tvg-logo="http://obsfullhd.tv:25461/images/4a33e7be8cfd6663c4c96d3c541843cb.png" group-title="FRANCE",||FR|| NOLLYWOOD HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2760
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="||FR|| MTV FRANCE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/MTV_HD_Logo_2015.png" group-title="FRANCE",||FR|| MTV FRANCE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2761
+#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="||FR|| COMEDIE+ HD" tvg-logo="http://obsfullhd.tv:25461/images/989bbc0dc03e1bf0d588a4db97c51101.png" group-title="FRANCE",||FR|| COMEDIE+ HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2764
+#EXTINF:-1 tvg-id="DJAZ.fr" tvg-name="||FR|| DJAZZ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Djazz.TV_logo.png/640px-Djazz.TV_logo.png" group-title="FRANCE",||FR|| DJAZZ HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/2765
+#EXTINF:-1 tvg-id="MTVBase.fr" tvg-name="||FR|| MTV BASE HD" tvg-logo="http://obsfullhd.tv:25461/images/4e482eff3927129e6e9f7aaec9805530.png" group-title="FRANCE",||FR|| MTV BASE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/4799
+#EXTINF:-1 tvg-id="RTSUn.ch" tvg-name="||FR|| RTS UN HD" tvg-logo="http://obsfullhd.tv:25461/images/8a5e40c120e6de6d154b52af5888b091.png" group-title="FRANCE",||FR|| RTS UN HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/4837
+#EXTINF:-1 tvg-id="RTSDeux.ch" tvg-name="||FR|| RTS DEUX HD" tvg-logo="http://obsfullhd.tv:25461/images/f54321addfbffa3b9bcb21242fc7c36f.png" group-title="FRANCE",||FR|| RTS DEUX HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/4838
+#EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="||FR|| RT FRANCE HD" tvg-logo="http://obsfullhd.tv:25461/images/f9eaff5bb39f2bd95296c0510463a49b.png" group-title="FRANCE",||FR|| RT FRANCE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/4839
+#EXTINF:-1 tvg-id="OLTV.fr" tvg-name="||FR|| OL TV HD" tvg-logo="http://obsfullhd.tv:25461/images/283865cf560d918661b46c1a79c0b677.png" group-title="FRANCE",||FR|| OL TV HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/5274
+#EXTINF:-1 tvg-id="BFMSport.fr" tvg-name="||FR|| BFM SPORT HD" tvg-logo="http://obsfullhd.tv:25461/images/f724f9fc75203341d770e2d28cdab0ee.png" group-title="FRANCE",||FR|| BFM SPORT HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/5384
+#EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="||FR|| COMEDY CENTRAL HD" tvg-logo="http://obsfullhd.tv:25461/images/d6f8ddc4ac59c4d9ccbc1de7c39b78c6.png" group-title="FRANCE",||FR|| COMEDY CENTRAL HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/5385
+#EXTINF:-1 tvg-id="ElleGirl.fr" tvg-name="||FR|| ELLE GIRL HD" tvg-logo="http://obsfullhd.tv:25461/images/57d9d32a206b4228af9711fca4479df7.png" group-title="FRANCE",||FR|| ELLE GIRL HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/5386
+#EXTINF:-1 tvg-id="APlusInternational.fr" tvg-name="||FR|| A+ INTERNATIONAL HD" tvg-logo="http://obsfullhd.tv:25461/images/154702eff1bdd14776e18252c6843466.png" group-title="FRANCE",||FR|| A+ INTERNATIONAL HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/5388
+#EXTINF:-1 tvg-id="ABXploreFR.fr" tvg-name="||FR|| ABXPLORE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/ABXplore_logo.svg/1280px-ABXplore_logo.svg.png" group-title="FRANCE",||FR|| ABXPLORE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/5389
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT 6 HD" tvg-logo="http://obsfullhd.tv:25461/images/869ae135e38dd15dbf5fc0119c4a1a96.png" group-title="RMC SPORTS",||FR|| RMC SPORT 6 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/6667
+#EXTINF:-1 tvg-id="ABXploreFR.fr" tvg-name="||FR|| AB EXPLORE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/ABXplore_logo.svg/1280px-ABXplore_logo.svg.png" group-title="FRANCE",||FR|| AB EXPLORE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7023
+#EXTINF:-1 tvg-id="TMCplus1.fr" tvg-name="||FR|| TMC +1 HD" tvg-logo="http://obsfullhd.tv:25461/images/875e9d12d5ebc1703733fb6eb7485c7a.png" group-title="FRANCE",||FR|| TMC +1 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7024
+#EXTINF:-1 tvg-id="BX1.be" tvg-name="||FR|| BX1 HD" tvg-logo="http://obsfullhd.tv:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="FRANCE",||FR|| BX1 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7026
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| NETFLIX ACTION HD" tvg-logo="http://obsfullhd.tv:25461/images/097d44a44da82ab052f6af664db73e3e.png" group-title="FRANCE",||FR|| NETFLIX ACTION HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7027
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| NETFLIX ROMANCE HD" tvg-logo="http://obsfullhd.tv:25461/images/097d44a44da82ab052f6af664db73e3e.png" group-title="FRANCE",||FR|| NETFLIX ROMANCE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7028
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| NETFLIX DRAMA HD" tvg-logo="http://obsfullhd.tv:25461/images/097d44a44da82ab052f6af664db73e3e.png" group-title="FRANCE",||FR|| NETFLIX DRAMA HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7029
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| NETFLIX HORROR HD" tvg-logo="http://obsfullhd.tv:25461/images/097d44a44da82ab052f6af664db73e3e.png" group-title="FRANCE",||FR|| NETFLIX HORROR HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7030
+#EXTINF:-1 tvg-id="BFM.Lyon.fr" tvg-name="||FR|| BFM LYON HD" tvg-logo="http://obsfullhd.tv:25461/images/be97ff16615dcf24d66d79125b1c9eb2.png" group-title="FRANCE",||FR|| BFM LYON HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7031
+#EXTINF:-1 tvg-id="BFMGrandLittoral.fr" tvg-name="||FR|| BFM LITTORAL HD" tvg-logo="http://obsfullhd.tv:25461/images/054facc5ebf5fb779ce95d16f6078c52.png" group-title="FRANCE",||FR|| BFM LITTORAL HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7032
+#EXTINF:-1 tvg-id="BFMGrandLille.fr" tvg-name="||FR|| BFM LILLE HD" tvg-logo="http://obsfullhd.tv:25461/images/961c3fe6e7bb8ff063713a9a4061fcbc.png" group-title="FRANCE",||FR|| BFM LILLE HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7033
+#EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="||FR|| ROUGE TV HD" tvg-logo="http://obsfullhd.tv:25461/images/bb00cd1fb16136e338c13de64c252a05.png" group-title="FRANCE",||FR|| ROUGE TV HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7034
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| BOSS MOVIES 1 HD" tvg-logo="" group-title="FRANCE",||FR|| BOSS MOVIES 1 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7036
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| BOSS MOVIES 2 HD" tvg-logo="" group-title="FRANCE",||FR|| BOSS MOVIES 2 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7037
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| BOSS MOVIES 3 HD" tvg-logo="" group-title="FRANCE",||FR|| BOSS MOVIES 3 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7038
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| BOSS MOVIES 4 HD" tvg-logo="" group-title="FRANCE",||FR|| BOSS MOVIES 4 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7039
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| BOSS MOVIES 5 HD" tvg-logo="" group-title="FRANCE",||FR|| BOSS MOVIES 5 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7040
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| BOSS MOVIES 6 HD" tvg-logo="" group-title="FRANCE",||FR|| BOSS MOVIES 6 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7041
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| BOSS MOVIES 7 HD" tvg-logo="" group-title="FRANCE",||FR|| BOSS MOVIES 7 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7042
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| BOSS MOVIES 8 HD" tvg-logo="" group-title="FRANCE",||FR|| BOSS MOVIES 8 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7043
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| BOSS MOVIES 9 HD" tvg-logo="" group-title="FRANCE",||FR|| BOSS MOVIES 9 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7044
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| NETFLIX FILM 1 HD" tvg-logo="http://obsfullhd.tv:25461/images/097d44a44da82ab052f6af664db73e3e.png" group-title="FRANCE",||FR|| NETFLIX FILM 1 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7045
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| NETFLIX FILM 2 HD" tvg-logo="http://obsfullhd.tv:25461/images/097d44a44da82ab052f6af664db73e3e.png" group-title="FRANCE",||FR|| NETFLIX FILM 2 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7046
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| NETFLIX FILM 3 HD" tvg-logo="http://obsfullhd.tv:25461/images/097d44a44da82ab052f6af664db73e3e.png" group-title="FRANCE",||FR|| NETFLIX FILM 3 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7047
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| NETFLIX FILM 4 HD" tvg-logo="http://obsfullhd.tv:25461/images/097d44a44da82ab052f6af664db73e3e.png" group-title="FRANCE",||FR|| NETFLIX FILM 4 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7048
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| NETFLIX FILM 5 HD" tvg-logo="http://obsfullhd.tv:25461/images/097d44a44da82ab052f6af664db73e3e.png" group-title="FRANCE",||FR|| NETFLIX FILM 5 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7049
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| NETFLIX FILM 6 HD" tvg-logo="http://obsfullhd.tv:25461/images/097d44a44da82ab052f6af664db73e3e.png" group-title="FRANCE",||FR|| NETFLIX FILM 6 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7050
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| NETFLIX FILM 7 HD" tvg-logo="http://obsfullhd.tv:25461/images/097d44a44da82ab052f6af664db73e3e.png" group-title="FRANCE",||FR|| NETFLIX FILM 7 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7051
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| NETFLIX FILM 8 HD" tvg-logo="http://obsfullhd.tv:25461/images/097d44a44da82ab052f6af664db73e3e.png" group-title="FRANCE",||FR|| NETFLIX FILM 8 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/7052
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT NEWS HD" tvg-logo="http://obsfullhd.tv:25461/images/869ae135e38dd15dbf5fc0119c4a1a96.png" group-title="RMC SPORTS",||FR|| RMC SPORT NEWS HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/91
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="||FR|| RMC SPORT 1 HD" tvg-logo="http://obsfullhd.tv:25461/images/508692b4bb39baaa5fc257367b5d799e.png" group-title="RMC SPORTS",||FR|| RMC SPORT 1 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/92
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="||FR|| RMC SPORT 2 HD" tvg-logo="http://obsfullhd.tv:25461/images/23bf89ddfb161b3421e73c78b16d2145.png" group-title="RMC SPORTS",||FR|| RMC SPORT 2 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/93
+#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="||FR|| RMC SPORT 3 HD" tvg-logo="http://obsfullhd.tv:25461/images/0d1c01fd13c353330ad9a25c1484db80.png" group-title="RMC SPORTS",||FR|| RMC SPORT 3 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/94
+#EXTINF:-1 tvg-id="RMCSport4.fr" tvg-name="||FR|| RMC SPORT 4 HD" tvg-logo="http://obsfullhd.tv:25461/images/c0ba8f5d77423a254a5f6c8e3b8c0c45.png" group-title="RMC SPORTS",||FR|| RMC SPORT 4 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/95
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT LIVE 5 HD" tvg-logo="http://obsfullhd.tv:25461/images/e6d0b47b757e61f99c72576c5d86c465.png" group-title="RMC SPORTS",||FR|| RMC SPORT LIVE 5 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/482
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT LIVE 6 HD" tvg-logo="http://obsfullhd.tv:25461/images/869ae135e38dd15dbf5fc0119c4a1a96.png" group-title="RMC SPORTS",||FR|| RMC SPORT LIVE 6 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/483
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT LIVE 7 HD" tvg-logo="http://obsfullhd.tv:25461/images/869ae135e38dd15dbf5fc0119c4a1a96.png" group-title="RMC SPORTS",||FR|| RMC SPORT LIVE 7 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/484
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT						 LIVE 8 HD" tvg-logo="http://obsfullhd.tv:25461/images/869ae135e38dd15dbf5fc0119c4a1a96.png" group-title="RMC SPORTS",||FR|| RMC SPORT						 LIVE 8 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/485
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT LIVE 9 HD" tvg-logo="http://obsfullhd.tv:25461/images/869ae135e38dd15dbf5fc0119c4a1a96.png" group-title="RMC SPORTS",||FR|| RMC SPORT LIVE 9 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/486
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT LIVE 10 HD" tvg-logo="http://obsfullhd.tv:25461/images/869ae135e38dd15dbf5fc0119c4a1a96.png" group-title="RMC SPORTS",||FR|| RMC SPORT LIVE 10 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/487
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC ACCESS SPORT 2 HD" tvg-logo="http://obsfullhd.tv:25461/images/23bf89ddfb161b3421e73c78b16d2145.png" group-title="RMC SPORTS",||FR|| RMC ACCESS SPORT 2 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/489
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC ACCESS SPORT 3 HD" tvg-logo="http://obsfullhd.tv:25461/images/0d1c01fd13c353330ad9a25c1484db80.png" group-title="RMC SPORTS",||FR|| RMC ACCESS SPORT 3 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/490
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT LIVE 11 HD" tvg-logo="http://obsfullhd.tv:25461/images/869ae135e38dd15dbf5fc0119c4a1a96.png" group-title="RMC SPORTS",||FR|| RMC SPORT LIVE 11 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1944
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT LIVE 12 HD" tvg-logo="http://obsfullhd.tv:25461/images/869ae135e38dd15dbf5fc0119c4a1a96.png" group-title="RMC SPORTS",||FR|| RMC SPORT LIVE 12 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1945
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT LIVE 13 HD" tvg-logo="http://obsfullhd.tv:25461/images/869ae135e38dd15dbf5fc0119c4a1a96.png" group-title="RMC SPORTS",||FR|| RMC SPORT LIVE 13 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1946
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT LIVE 14 HD" tvg-logo="http://obsfullhd.tv:25461/images/869ae135e38dd15dbf5fc0119c4a1a96.png" group-title="RMC SPORTS",||FR|| RMC SPORT LIVE 14 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1947
+#EXTINF:-1 tvg-id="" tvg-name=" ||FR|| RMC SPORT LIVE 15 HD" tvg-logo="http://obsfullhd.tv:25461/images/869ae135e38dd15dbf5fc0119c4a1a96.png" group-title="RMC SPORTS", ||FR|| RMC SPORT LIVE 15 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1948
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT LIVE 16 HD" tvg-logo="http://obsfullhd.tv:25461/images/869ae135e38dd15dbf5fc0119c4a1a96.png" group-title="RMC SPORTS",||FR|| RMC SPORT LIVE 16 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1949
+#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="||FR|| RMC SPORT 5 HD" tvg-logo="http://obsfullhd.tv:25461/images/e6d0b47b757e61f99c72576c5d86c465.png" group-title="RMC SPORTS",||FR|| RMC SPORT 5 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/1968
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT 7 HD" tvg-logo="http://obsfullhd.tv:25461/images/869ae135e38dd15dbf5fc0119c4a1a96.png" group-title="RMC SPORTS",||FR|| RMC SPORT 7 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/6671
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="||FR|| RMC SPORT 1 HD ACCESS" tvg-logo="http://obsfullhd.tv:25461/images/508692b4bb39baaa5fc257367b5d799e.png" group-title="RMC SPORTS",||FR|| RMC SPORT 1 HD ACCESS
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/6704
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="||FR|| RMC SPORT 2 HD ACCESS" tvg-logo="http://obsfullhd.tv:25461/images/23bf89ddfb161b3421e73c78b16d2145.png" group-title="RMC SPORTS",||FR|| RMC SPORT 2 HD ACCESS
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/6705
+#EXTINF:-1 tvg-id="RMCSportAccess3.fr" tvg-name="||FR|| RMC SPORT 3 HD ACCESS" tvg-logo="http://obsfullhd.tv:25461/images/0d1c01fd13c353330ad9a25c1484db80.png" group-title="RMC SPORTS",||FR|| RMC SPORT 3 HD ACCESS
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/6706
+#EXTINF:-1 tvg-id="" tvg-name="||FR|| RMC SPORT 4 HD ACCESS" tvg-logo="http://obsfullhd.tv:25461/images/c0ba8f5d77423a254a5f6c8e3b8c0c45.png" group-title="RMC SPORTS",||FR|| RMC SPORT 4 HD ACCESS
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/6707
+#EXTINF:-1 tvg-id="beINSPORTSMAX4.fr" tvg-name="||FR|| BEIN MAX 4 HD" tvg-logo="http://obsfullhd.tv:25461/images/d553689764db3362d713cc53b8918b7a.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 4 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/106
+#EXTINF:-1 tvg-id="beINSPORTSMAX5.fr" tvg-name="||FR|| BEIN MAX 5 HD" tvg-logo="http://obsfullhd.tv:25461/images/e48e13207341b6bffb7fb1622282247b.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 5 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/107
+#EXTINF:-1 tvg-id="beINSPORTSMAX6.fr" tvg-name="||FR|| BEIN MAX 6 HD" tvg-logo="http://obsfullhd.tv:25461/images/72ae25dd3ccee6d868d5974433408dce.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 6 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/108
+#EXTINF:-1 tvg-id="beINSPORTSMAX7.fr" tvg-name="||FR|| BEIN MAX 7 HD" tvg-logo="http://obsfullhd.tv:25461/images/7a6455f20d74010716891e3290e65b35.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 7 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/109
+#EXTINF:-1 tvg-id="beINSPORTSMAX8.fr" tvg-name="||FR|| BEIN MAX 8 HD" tvg-logo="http://obsfullhd.tv:25461/images/85f977a6a7ae02f83cde0ab9aa45b0e9.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 8 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/110
+#EXTINF:-1 tvg-id="beINSPORTSMAX9.fr" tvg-name="||FR|| BEIN MAX 9 HD" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F336f2d894ae76f43.2Epng/1200x630/crop-from/top/quality/80/bein-sports-max-9.pngfho" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 9 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/111
+#EXTINF:-1 tvg-id="beINSPORTSMAX10.fr" tvg-name="||FR|| BEIN MAX 10 HD" tvg-logo="http://obsfullhd.tv:25461/images/b91b887a44dd86a1d09d2327c469f97d.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 10 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/112
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="||FR|| BEIN SPORTS 1 HD" tvg-logo="http://obsfullhd.tv:25461/images/c207e1231312b32d0bc3fc312da45c2e.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN SPORTS 1 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/163
+#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="||FR|| BEIN SPORTS 2 HD" tvg-logo="http://obsfullhd.tv:25461/images/309d037e80929c143b5e8e4478143d2f.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN SPORTS 2 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/164
+#EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="||FR|| BEIN SPORTS 3 HD" tvg-logo="http://obsfullhd.tv:25461/images/ee563d622c6e53db2bcbfb2b95d80d30.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN SPORTS 3 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/165
+#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="||FR|| BEIN SPORTS 2 HD" tvg-logo="http://obsfullhd.tv:25461/images/309d037e80929c143b5e8e4478143d2f.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN SPORTS 2 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/910
+#EXTINF:-1 tvg-id="beINSPORTSMAX4.fr" tvg-name="||FR|| BEIN MAX 4 HD" tvg-logo="http://obsfullhd.tv:25461/images/d553689764db3362d713cc53b8918b7a.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 4 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/6708
+#EXTINF:-1 tvg-id="beINSPORTSMAX5.fr" tvg-name="||FR|| BEIN MAX 5 HD						" tvg-logo="http://obsfullhd.tv:25461/images/e48e13207341b6bffb7fb1622282247b.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 5 HD						
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/6709
+#EXTINF:-1 tvg-id="beINSPORTSMAX6.fr" tvg-name="||FR|| BEIN MAX 6 HD" tvg-logo="http://obsfullhd.tv:25461/images/72ae25dd3ccee6d868d5974433408dce.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 6 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/6710
+#EXTINF:-1 tvg-id="beINSPORTSMAX7.fr" tvg-name="||FR|| BEIN MAX 7 HD" tvg-logo="http://obsfullhd.tv:25461/images/7a6455f20d74010716891e3290e65b35.png" group-title="BEIN SPORTS FRANCE",||FR|| BEIN MAX 7 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/6711
